@@ -22,6 +22,11 @@ uv venv .venv && source .venv/bin/activate
 uv sync
 ```
 
+### Step 4: create `.env` file
+The repository contains a `.env.example` file.
+Copy it and name the copied file `.env`.
+Replace the OPENAI_API_KEY fake value with the real key
+
 
 ## Usage Flow
 ### Step 1: Run generator.py
@@ -29,7 +34,7 @@ This script generates questionnaire stems for each facet and saves them to a CSV
 
 Run the script:
 ```bash
-python generator.py
+python src/generator.py
 ```
 
 ### Step 2: Run validator.py
@@ -37,7 +42,7 @@ This script validates the generated stems for drift and readability, and updates
 
 Run the script:
 ```bash
-python validator.py
+python src/validator.py
 ```
 
 ### Step 3: Open Jupyter Notebook and View Plots
@@ -49,6 +54,6 @@ jupyter notebook
 ```
 The terminal output will tell you which port the server is running on.
 It may automatically open your browser to the right url.
-Navigate to the notebook file, `cos_sims.ipynb` in your browser and open it.
+Navigate to the notebook file, `src/cos_sims.ipynb` in your browser and open it.
 
 
