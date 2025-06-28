@@ -7,18 +7,18 @@ import dotenv
 import openai
 
 
-dotenv.find_dotenv( Path(__file__).parent.parent / ".env", raise_error_if_not_found=True)
+dotenv.find_dotenv(Path(__file__).parent.parent / ".env", raise_error_if_not_found=True)
 # loads the OPENAI_API_KEY into the environment from .env file
 dotenv.load_dotenv()
 
 
-
 GeneratedStem = NewType("GeneratedStem", str)
+
+
 class GeneratedItem(TypedDict):
     facet: str
     anchor: str
     stem: GeneratedStem
-
 
 
 CSV_OUT = Path(__file__).parent.parent / "data" / "ai_stems_generated.csv"
@@ -60,6 +60,7 @@ FACET_ANCHORS = {
     "Negotiation": "I reach deals that satisfy all sides.",
     "Vision Casting": "I paint a compelling future.",
 }
+
 
 def prompt(anchor: str) -> str:
     return f"""
@@ -109,7 +110,6 @@ def to_csv(file: str, items: list[GeneratedItem]) -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(items)
-
 
 
 if __name__ == "__main__":

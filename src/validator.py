@@ -9,7 +9,10 @@ MODELS = ["all-MiniLM-L6-v2", "all-mpnet-base-v2"]
 
 
 def output_file(model_name: str) -> Path:
-    return Path(__file__).parent.parent / "data" / f"ai_stems_with_sims-{model_name}.csv"
+    return (
+        Path(__file__).parent.parent / "data" / f"ai_stems_with_sims-{model_name}.csv"
+    )
+
 
 if __name__ == "__main__":
     for model in MODELS:
