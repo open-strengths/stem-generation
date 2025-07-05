@@ -1,0 +1,901 @@
+,facet,anchor,stem,cosine_similarity,drift_flag,length_flag
+0,I break problems into clear steps.,Analytical Reasoning,I analyze situations carefully.,0.50238425,1,0
+1,I break problems into clear steps.,Analytical Reasoning,I think logically to solve problems.,0.5425284,1,0
+2,I break problems into clear steps.,Analytical Reasoning,I use reasoning to understand information.,0.5576021,1,0
+3,I break problems into clear steps.,Analytical Reasoning,I evaluate facts to make decisions.,0.52104086,1,0
+4,I break problems into clear steps.,Analytical Reasoning,I assess data to draw conclusions.,0.55638844,1,0
+5,I break problems into clear steps.,Analytical Reasoning,I process information critically.,0.36142126,1,0
+6,I break problems into clear steps.,Analytical Reasoning,I use logic to interpret situations.,0.51350343,1,0
+7,I break problems into clear steps.,Analytical Reasoning,I examine evidence to find solutions.,0.5576384,1,0
+8,I break problems into clear steps.,Analytical Reasoning,I think through issues systematically.,0.45806718,1,0
+9,I break problems into clear steps.,Analytical Reasoning,I use analytical skills in my work.,0.6202963,1,0
+10,I break problems into clear steps.,Analytical Reasoning,I break down problems to understand them.,0.48677465,1,0
+11,I break problems into clear steps.,Analytical Reasoning,I organize information to analyze it.,0.42730725,1,0
+12,I break problems into clear steps.,Analytical Reasoning,I consider all possibilities before deciding.,0.24433014,1,0
+13,I break problems into clear steps.,Analytical Reasoning,I use facts to support my conclusions.,0.422679,1,0
+14,I break problems into clear steps.,Analytical Reasoning,I identify patterns in complex data.,0.43535316,1,0
+15,I break problems into clear steps.,Analytical Reasoning,I solve problems using logical thinking.,0.5485898,1,0
+16,I break problems into clear steps.,Analytical Reasoning,I understand situations by analyzing details.,0.5086676,1,0
+17,I break problems into clear steps.,Analytical Reasoning,I compare information to find answers.,0.5241765,1,0
+18,I break problems into clear steps.,Analytical Reasoning,I apply reasoning to everyday tasks.,0.5539918,1,0
+19,I break problems into clear steps.,Analytical Reasoning,I evaluate options using logical methods.,0.60633993,1,0
+20,I break problems into clear steps.,Analytical Reasoning,I use evidence to support my ideas.,0.38130194,1,0
+21,I break problems into clear steps.,Analytical Reasoning,I think critically about challenges.,0.36389256,1,0
+22,I break problems into clear steps.,Analytical Reasoning,I analyze information to make sense of it.,0.5283536,1,0
+23,I break problems into clear steps.,Analytical Reasoning,I approach problems with a clear mind.,0.3494709,1,0
+24,I break problems into clear steps.,Analytical Reasoning,I reason through situations step by step.,0.4325301,1,0
+25,I see how parts fit a whole.,Systems Perspective,I see how different parts work together in a system.,0.50341135,1,0
+26,I see how parts fit a whole.,Systems Perspective,I understand how everything connects in a system.,0.44473502,1,0
+27,I see how parts fit a whole.,Systems Perspective,I view things from a broader system perspective.,0.7481422,1,0
+28,I see how parts fit a whole.,Systems Perspective,I consider how parts interact within a system.,0.5228187,1,0
+29,I see how parts fit a whole.,Systems Perspective,I recognize the relationships in a system.,0.5409812,1,0
+30,I see how parts fit a whole.,Systems Perspective,I think about systems as a whole.,0.7382951,1,0
+31,I see how parts fit a whole.,Systems Perspective,I approach problems by looking at the entire system.,0.56187505,1,0
+32,I see how parts fit a whole.,Systems Perspective,I grasp how elements fit in a system.,0.44864237,1,0
+33,I see how parts fit a whole.,Systems Perspective,I appreciate the complexity of systems.,0.4749906,1,0
+34,I see how parts fit a whole.,Systems Perspective,I see the big picture in systems.,0.69816345,1,0
+35,I see how parts fit a whole.,Systems Perspective,I analyze how systems function as a whole.,0.6823509,1,0
+36,I see how parts fit a whole.,Systems Perspective,I notice the connections between different system parts.,0.45018286,1,0
+37,I see how parts fit a whole.,Systems Perspective,I understand the overall system structure.,0.5301254,1,0
+38,I see how parts fit a whole.,Systems Perspective,I pay attention to how systems operate together.,0.5929494,1,0
+39,I see how parts fit a whole.,Systems Perspective,I study systems to see how they work.,0.6278708,1,0
+40,I see how parts fit a whole.,Systems Perspective,I consider the whole system in my analysis.,0.50006455,1,0
+41,I see how parts fit a whole.,Systems Perspective,I observe how systems are organized.,0.6046895,1,0
+42,I see how parts fit a whole.,Systems Perspective,I examine how each part affects the system.,0.46574008,1,0
+43,I see how parts fit a whole.,Systems Perspective,I focus on the system's overall functioning.,0.61013985,1,0
+44,I see how parts fit a whole.,Systems Perspective,I think about how everything is part of a system.,0.6412965,1,0
+45,I see how parts fit a whole.,Systems Perspective,I realize the importance of systems thinking.,0.661392,1,0
+46,I see how parts fit a whole.,Systems Perspective,I evaluate situations from a system's viewpoint.,0.751887,0,0
+47,I see how parts fit a whole.,Systems Perspective,I consider the system's dynamics and interactions.,0.491157,1,0
+48,I see how parts fit a whole.,Systems Perspective,I look at the system's complete framework.,0.5324639,1,0
+49,I see how parts fit a whole.,Systems Perspective,I understand systems by seeing how they interconnect.,0.5633175,1,0
+50,I anticipate future outcomes.,Foresight,I think about future possibilities.,0.4534329,1,0
+51,I anticipate future outcomes.,Foresight,I plan for what might happen later.,0.41942358,1,0
+52,I anticipate future outcomes.,Foresight,I prepare in advance for things.,0.43581468,1,0
+53,I anticipate future outcomes.,Foresight,I consider what could come next.,0.3906743,1,0
+54,I anticipate future outcomes.,Foresight,I look ahead to what's possible.,0.36801445,1,0
+55,I anticipate future outcomes.,Foresight,I anticipate future situations.,0.49660814,1,0
+56,I anticipate future outcomes.,Foresight,I imagine what may occur.,0.19078214,1,0
+57,I anticipate future outcomes.,Foresight,I foresee potential challenges.,0.34561846,1,0
+58,I anticipate future outcomes.,Foresight,I envision upcoming events.,0.41493762,1,0
+59,I anticipate future outcomes.,Foresight,I predict what might take place.,0.41812575,1,0
+60,I anticipate future outcomes.,Foresight,I expect changes down the road.,0.113366626,1,0
+61,I anticipate future outcomes.,Foresight,I see ahead to future outcomes.,0.5038532,1,0
+62,I anticipate future outcomes.,Foresight,I plan for tomorrow's situations.,0.41381577,1,0
+63,I anticipate future outcomes.,Foresight,I think about future scenarios.,0.4463724,1,0
+64,I anticipate future outcomes.,Foresight,I strategize for what's ahead.,0.4470833,1,0
+65,I anticipate future outcomes.,Foresight,I consider long-term effects.,0.1530531,1,0
+66,I anticipate future outcomes.,Foresight,I prepare for future needs.,0.45860305,1,0
+67,I anticipate future outcomes.,Foresight,I visualize future developments.,0.4608959,1,0
+68,I anticipate future outcomes.,Foresight,I evaluate what could happen.,0.37314978,1,0
+69,I anticipate future outcomes.,Foresight,I think about future consequences.,0.4129187,1,0
+70,I anticipate future outcomes.,Foresight,I prepare for upcoming challenges.,0.3741044,1,0
+71,I anticipate future outcomes.,Foresight,I look to the future with a plan.,0.5226302,1,0
+72,I anticipate future outcomes.,Foresight,I plan for what lies ahead.,0.43803853,1,0
+73,I anticipate future outcomes.,Foresight,I assess future risks.,0.45519936,1,0
+74,I anticipate future outcomes.,Foresight,I think about what's next.,0.3591286,1,0
+75,I enjoy exploring new ideas.,Curiosity,I am eager to learn new things.,0.2604499,1,0
+76,I enjoy exploring new ideas.,Curiosity,I like to explore different topics.,0.4146654,1,0
+77,I enjoy exploring new ideas.,Curiosity,I enjoy discovering new information.,0.42372936,1,0
+78,I enjoy exploring new ideas.,Curiosity,I am interested in finding out more.,0.2828914,1,0
+79,I enjoy exploring new ideas.,Curiosity,I feel excited about learning.,0.22289386,1,0
+80,I enjoy exploring new ideas.,Curiosity,I want to understand how things work.,0.1589265,1,0
+81,I enjoy exploring new ideas.,Curiosity,I am always looking for new ideas.,0.18071145,1,0
+82,I enjoy exploring new ideas.,Curiosity,I search for answers to my questions.,0.4389671,1,0
+83,I enjoy exploring new ideas.,Curiosity,I like to ask questions to learn more.,0.48801285,1,0
+84,I enjoy exploring new ideas.,Curiosity,I enjoy figuring out how things operate.,0.336931,1,0
+85,I enjoy exploring new ideas.,Curiosity,I am keen to discover new places.,0.30860424,1,0
+86,I enjoy exploring new ideas.,Curiosity,I investigate topics that interest me.,0.4518994,1,0
+87,I enjoy exploring new ideas.,Curiosity,I am always ready to learn something new.,0.19837928,1,0
+88,I enjoy exploring new ideas.,Curiosity,I take pleasure in exploring new areas.,0.37802398,1,0
+89,I enjoy exploring new ideas.,Curiosity,I seek to know more about the world.,0.40503603,1,0
+90,I enjoy exploring new ideas.,Curiosity,I am drawn to uncovering secrets.,0.4144284,1,0
+91,I enjoy exploring new ideas.,Curiosity,I have a strong interest in new experiences.,0.3904807,1,0
+92,I enjoy exploring new ideas.,Curiosity,I am fascinated by learning different things.,0.443709,1,0
+93,I enjoy exploring new ideas.,Curiosity,I want to find out more about people.,0.3715319,1,0
+94,I enjoy exploring new ideas.,Curiosity,I am inclined to learn about new cultures.,0.25935864,1,0
+95,I enjoy exploring new ideas.,Curiosity,I seek to understand new concepts.,0.31650364,1,0
+96,I enjoy exploring new ideas.,Curiosity,I am curious about the unknown.,0.35132766,1,0
+97,I enjoy exploring new ideas.,Curiosity,I am motivated to gain new knowledge.,0.34073573,1,0
+98,I enjoy exploring new ideas.,Curiosity,I am passionate about learning new skills.,0.30251843,1,0
+99,I enjoy exploring new ideas.,Curiosity,I enjoy unraveling mysteries.,0.38887855,1,0
+100,I think about what I've learned.,Reflective Learning,I think about my learning experiences.,0.5211709,1,0
+101,I think about what I've learned.,Reflective Learning,I consider what I learn and how.,0.51175845,1,0
+102,I think about what I've learned.,Reflective Learning,I review what I study regularly.,0.36037546,1,0
+103,I think about what I've learned.,Reflective Learning,I evaluate my progress in learning.,0.5452981,1,0
+104,I think about what I've learned.,Reflective Learning,I analyze how I learn best.,0.5543488,1,0
+105,I think about what I've learned.,Reflective Learning,I assess my understanding of the material.,0.41047442,1,0
+106,I think about what I've learned.,Reflective Learning,I explore my methods of learning.,0.58592093,1,0
+107,I think about what I've learned.,Reflective Learning,I examine my learning process.,0.6026834,1,0
+108,I think about what I've learned.,Reflective Learning,I observe my own learning habits.,0.537786,1,0
+109,I think about what I've learned.,Reflective Learning,I focus on improving how I learn.,0.48229632,1,0
+110,I think about what I've learned.,Reflective Learning,I pay attention to my learning techniques.,0.5273273,1,0
+111,I think about what I've learned.,Reflective Learning,I study how I approach new topics.,0.43293977,1,0
+112,I think about what I've learned.,Reflective Learning,I look back at what I have learned.,0.49885333,1,0
+113,I think about what I've learned.,Reflective Learning,I think critically about my education.,0.49764806,1,0
+114,I think about what I've learned.,Reflective Learning,I reflect on my learning journey.,0.5750455,1,0
+115,I think about what I've learned.,Reflective Learning,I understand how I acquire new knowledge.,0.45486644,1,0
+116,I think about what I've learned.,Reflective Learning,I consider my strengths in learning.,0.40685713,1,0
+117,I think about what I've learned.,Reflective Learning,I identify areas to improve in my studies.,0.4123086,1,0
+118,I think about what I've learned.,Reflective Learning,I recognize my learning achievements.,0.47890085,1,0
+119,I think about what I've learned.,Reflective Learning,I notice how I engage with new information.,0.40994078,1,0
+120,I think about what I've learned.,Reflective Learning,I develop awareness of my learning style.,0.57009745,1,0
+121,I think about what I've learned.,Reflective Learning,I question my understanding of topics.,0.3161111,1,0
+122,I think about what I've learned.,Reflective Learning,I look for patterns in my learning.,0.5089421,1,0
+123,I think about what I've learned.,Reflective Learning,I find ways to enhance my learning skills.,0.5215343,1,0
+124,I think about what I've learned.,Reflective Learning,I adapt my strategies to learn better.,0.50210756,1,0
+125,I turn data into clear stories.,Sense-Making,I understand the information clearly.,0.32510436,1,0
+126,I turn data into clear stories.,Sense-Making,I find meaning in what I read.,0.4188673,1,0
+127,I turn data into clear stories.,Sense-Making,I grasp the main idea easily.,0.37576628,1,0
+128,I turn data into clear stories.,Sense-Making,I make sense of what I hear.,0.48502347,1,0
+129,I turn data into clear stories.,Sense-Making,I connect ideas successfully.,0.39141455,1,0
+130,I turn data into clear stories.,Sense-Making,I comprehend the topic well.,0.38695917,1,0
+131,I turn data into clear stories.,Sense-Making,I interpret the message correctly.,0.25909317,1,0
+132,I turn data into clear stories.,Sense-Making,I clarify the details in my mind.,0.37795365,1,0
+133,I turn data into clear stories.,Sense-Making,I understand the purpose of the text.,0.31379572,1,0
+134,I turn data into clear stories.,Sense-Making,I see the logic in the situation.,0.37651476,1,0
+135,I turn data into clear stories.,Sense-Making,I recognize patterns in the information.,0.40149927,1,0
+136,I turn data into clear stories.,Sense-Making,I identify key points quickly.,0.31905288,1,0
+137,I turn data into clear stories.,Sense-Making,I follow the flow of the conversation.,0.25688168,1,0
+138,I turn data into clear stories.,Sense-Making,I organize my thoughts effectively.,0.35592687,1,0
+139,I turn data into clear stories.,Sense-Making,I relate the facts to each other.,0.3192524,1,0
+140,I turn data into clear stories.,Sense-Making,I summarize the content accurately.,0.2698358,1,0
+141,I turn data into clear stories.,Sense-Making,I see the significance of the details.,0.26146516,1,0
+142,I turn data into clear stories.,Sense-Making,I analyze the information thoughtfully.,0.4283539,1,0
+143,I turn data into clear stories.,Sense-Making,I perceive the context clearly.,0.35879955,1,0
+144,I turn data into clear stories.,Sense-Making,I piece together the information logically.,0.5426104,1,0
+145,I turn data into clear stories.,Sense-Making,I discern the main message.,0.35325605,1,0
+146,I turn data into clear stories.,Sense-Making,I decode the meaning of complex ideas.,0.531469,1,0
+147,I turn data into clear stories.,Sense-Making,I understand the overall concept.,0.29653445,1,0
+148,I turn data into clear stories.,Sense-Making,I put the information into context.,0.36742556,1,0
+149,I turn data into clear stories.,Sense-Making,I reflect on the meaning of what I learn.,0.4051535,1,0
+150,I generate many ideas quickly.,Ideation,I come up with new ideas regularly.,0.44294342,1,0
+151,I generate many ideas quickly.,Ideation,I think of creative solutions every day.,0.39055097,1,0
+152,I generate many ideas quickly.,Ideation,I generate new concepts in my mind.,0.5204907,1,0
+153,I generate many ideas quickly.,Ideation,I often imagine different possibilities.,0.49096876,1,0
+154,I generate many ideas quickly.,Ideation,I think of innovative ways to do things.,0.52988046,1,0
+155,I generate many ideas quickly.,Ideation,I create new thoughts in my mind.,0.5156136,1,0
+156,I generate many ideas quickly.,Ideation,I brainstorm different ideas for projects.,0.5644413,1,0
+157,I generate many ideas quickly.,Ideation,I develop new plans and strategies.,0.38795176,1,0
+158,I generate many ideas quickly.,Ideation,I visualize new scenarios and outcomes.,0.45032513,1,0
+159,I generate many ideas quickly.,Ideation,I invent original ideas frequently.,0.48466295,1,0
+160,I generate many ideas quickly.,Ideation,I consider various options and ideas.,0.39568457,1,0
+161,I generate many ideas quickly.,Ideation,I dream up unique ideas often.,0.5137187,1,0
+162,I generate many ideas quickly.,Ideation,I design new ideas in my head.,0.591519,1,0
+163,I generate many ideas quickly.,Ideation,I form fresh concepts and thoughts.,0.53932405,1,0
+164,I generate many ideas quickly.,Ideation,I envision new possibilities and plans.,0.48639122,1,0
+165,I generate many ideas quickly.,Ideation,I explore different ideas in my mind.,0.5797209,1,0
+166,I generate many ideas quickly.,Ideation,I craft new ideas regularly.,0.44566926,1,0
+167,I generate many ideas quickly.,Ideation,I originate new thoughts and ideas.,0.5703419,1,0
+168,I generate many ideas quickly.,Ideation,I produce ideas for different situations.,0.5807319,1,0
+169,I generate many ideas quickly.,Ideation,I plan new ideas for projects and tasks.,0.4905349,1,0
+170,I generate many ideas quickly.,Ideation,I conceive novel ideas frequently.,0.6104808,1,0
+171,I generate many ideas quickly.,Ideation,I think up different ways to solve problems.,0.49893147,1,0
+172,I generate many ideas quickly.,Ideation,I formulate creative ideas in my mind.,0.6043315,1,0
+173,I generate many ideas quickly.,Ideation,I devise new ideas and solutions.,0.47453043,1,0
+174,I generate many ideas quickly.,Ideation,I reflect on new ideas and concepts.,0.58674395,1,0
+175,I turn ideas into real projects.,Innovation,I create new ideas and solutions.,0.5533471,1,0
+176,I turn ideas into real projects.,Innovation,I develop fresh approaches to problems.,0.49290806,1,0
+177,I turn ideas into real projects.,Innovation,I introduce creative methods in my work.,0.4853598,1,0
+178,I turn ideas into real projects.,Innovation,I bring about change through new concepts.,0.53499365,1,0
+179,I turn ideas into real projects.,Innovation,I generate novel plans and strategies.,0.4412432,1,0
+180,I turn ideas into real projects.,Innovation,I advance technology with unique inventions.,0.60102624,1,0
+181,I turn ideas into real projects.,Innovation,I transform ideas into practical applications.,0.46473145,1,0
+182,I turn ideas into real projects.,Innovation,I explore original ways to improve things.,0.5222831,1,0
+183,I turn ideas into real projects.,Innovation,I find innovative solutions to challenges.,0.513923,1,0
+184,I turn ideas into real projects.,Innovation,I apply creativity to everyday tasks.,0.41120932,1,0
+185,I turn ideas into real projects.,Innovation,I use imagination to design new products.,0.49564058,1,0
+186,I turn ideas into real projects.,Innovation,I experiment with different techniques and tools.,0.35551494,1,0
+187,I turn ideas into real projects.,Innovation,I make progress by thinking outside the box.,0.41554478,1,0
+188,I turn ideas into real projects.,Innovation,I combine ideas to form new inventions.,0.58777523,1,0
+189,I turn ideas into real projects.,Innovation,I initiate change through creative thinking.,0.5580203,1,0
+190,I turn ideas into real projects.,Innovation,I seek improvement through innovative methods.,0.5224725,1,0
+191,I turn ideas into real projects.,Innovation,I adapt new technologies to everyday life.,0.5004096,1,0
+192,I turn ideas into real projects.,Innovation,I work on groundbreaking projects and ideas.,0.45174262,1,0
+193,I turn ideas into real projects.,Innovation,I think creatively to solve complex issues.,0.43726546,1,0
+194,I turn ideas into real projects.,Innovation,I promote progress with inventive thinking.,0.6116997,1,0
+195,I turn ideas into real projects.,Innovation,I revolutionize industries with my ideas.,0.57405734,1,0
+196,I turn ideas into real projects.,Innovation,I contribute to advancements with my creativity.,0.5196988,1,0
+197,I turn ideas into real projects.,Innovation,I inspire others with my innovative mindset.,0.517887,1,0
+198,I turn ideas into real projects.,Innovation,I enhance processes with novel approaches.,0.37534028,1,0
+199,I turn ideas into real projects.,Innovation,I lead by example with my innovative spirit.,0.5085629,1,0
+200,I notice small design details.,Aesthetic Sensitivity,I notice the beauty in my surroundings.,0.29757836,1,0
+201,I notice small design details.,Aesthetic Sensitivity,I appreciate the artistic details in things.,0.40260395,1,0
+202,I notice small design details.,Aesthetic Sensitivity,I find beauty in everyday objects.,0.39255798,1,0
+203,I notice small design details.,Aesthetic Sensitivity,I enjoy seeing artistic elements around me.,0.36675623,1,0
+204,I notice small design details.,Aesthetic Sensitivity,I am aware of the aesthetic aspects of my environment.,0.46861905,1,0
+205,I notice small design details.,Aesthetic Sensitivity,I see the artistry in simple things.,0.32450175,1,0
+206,I notice small design details.,Aesthetic Sensitivity,I appreciate the design in what I see.,0.3479029,1,0
+207,I notice small design details.,Aesthetic Sensitivity,I admire the beauty in nature and art.,0.31412023,1,0
+208,I notice small design details.,Aesthetic Sensitivity,I enjoy the visual appeal of my surroundings.,0.36263758,1,0
+209,I notice small design details.,Aesthetic Sensitivity,I focus on the beauty in different places.,0.421971,1,0
+210,I notice small design details.,Aesthetic Sensitivity,I notice the artistic value in objects.,0.44380945,1,0
+211,I notice small design details.,Aesthetic Sensitivity,I am drawn to visually pleasing things.,0.41225183,1,0
+212,I notice small design details.,Aesthetic Sensitivity,I appreciate the style in my environment.,0.37724695,1,0
+213,I notice small design details.,Aesthetic Sensitivity,I see beauty in ordinary things.,0.4131553,1,0
+214,I notice small design details.,Aesthetic Sensitivity,I enjoy the aesthetics of my surroundings.,0.39237002,1,0
+215,I notice small design details.,Aesthetic Sensitivity,I find pleasure in beautiful designs.,0.35560054,1,0
+216,I notice small design details.,Aesthetic Sensitivity,I am sensitive to artistic expressions.,0.6347458,1,0
+217,I notice small design details.,Aesthetic Sensitivity,I see beauty beyond the surface of things.,0.36315957,1,0
+218,I notice small design details.,Aesthetic Sensitivity,I appreciate the visual harmony around me.,0.3129773,1,0
+219,I notice small design details.,Aesthetic Sensitivity,I notice the elegance in different settings.,0.46199158,1,0
+220,I notice small design details.,Aesthetic Sensitivity,I enjoy observing beautiful forms.,0.28541386,1,0
+221,I notice small design details.,Aesthetic Sensitivity,I find beauty in the details.,0.359944,1,0
+222,I notice small design details.,Aesthetic Sensitivity,I appreciate the charm in my environment.,0.20337853,1,0
+223,I notice small design details.,Aesthetic Sensitivity,I see the aesthetic qualities in things around me.,0.5120321,1,0
+224,I notice small design details.,Aesthetic Sensitivity,I enjoy the artistic side of life.,0.2672258,1,0
+225,I adapt when plans change.,Improvisation,I create things spontaneously.,0.4820649,1,0
+226,I adapt when plans change.,Improvisation,I make things up as I go.,0.2849,1,0
+227,I adapt when plans change.,Improvisation,I act without a script.,0.3430786,1,0
+228,I adapt when plans change.,Improvisation,I invent on the spot.,0.3972819,1,0
+229,I adapt when plans change.,Improvisation,I come up with ideas quickly.,0.31264895,1,0
+230,I adapt when plans change.,Improvisation,I adapt to new situations easily.,0.2760313,1,0
+231,I adapt when plans change.,Improvisation,I think creatively in the moment.,0.5268525,1,0
+232,I adapt when plans change.,Improvisation,I respond in real-time.,0.15134278,1,0
+233,I adapt when plans change.,Improvisation,I play roles without preparation.,0.28047627,1,0
+234,I adapt when plans change.,Improvisation,I use my imagination instantly.,0.41920274,1,0
+235,I adapt when plans change.,Improvisation,I generate ideas on the fly.,0.49228463,1,0
+236,I adapt when plans change.,Improvisation,I work without a plan.,0.18306401,1,0
+237,I adapt when plans change.,Improvisation,I make quick decisions.,0.28186083,1,0
+238,I adapt when plans change.,Improvisation,I react to changes flexibly.,0.34769082,1,0
+239,I adapt when plans change.,Improvisation,I solve problems immediately.,0.2352782,1,0
+240,I adapt when plans change.,Improvisation,I speak without pre-planning.,0.2716245,1,0
+241,I adapt when plans change.,Improvisation,I perform spontaneously.,0.48812795,1,0
+242,I adapt when plans change.,Improvisation,I handle unexpected events smoothly.,0.20489438,1,0
+243,I adapt when plans change.,Improvisation,I engage in unplanned activities.,0.38221017,1,0
+244,I adapt when plans change.,Improvisation,I develop stories as I go.,0.31551784,1,0
+245,I adapt when plans change.,Improvisation,I adjust my actions quickly.,0.2673004,1,0
+246,I adapt when plans change.,Improvisation,I create without prior thinking.,0.48487368,1,0
+247,I adapt when plans change.,Improvisation,I manage surprises effectively.,0.2338413,1,0
+248,I adapt when plans change.,Improvisation,I think on my feet.,0.30015022,1,0
+249,I adapt when plans change.,Improvisation,I perform without rehearsal.,0.46320713,1,0
+250,I test ideas to see what works.,Experimentation,I try new things to see what happens,0.5592783,1,0
+251,I test ideas to see what works.,Experimentation,I test different ideas to learn more,0.59308195,1,0
+252,I test ideas to see what works.,Experimentation,I conduct trials to understand better,0.53138113,1,0
+253,I test ideas to see what works.,Experimentation,I explore new methods to gain insight,0.48196682,1,0
+254,I test ideas to see what works.,Experimentation,I experiment with different approaches to find solutions,0.48440248,1,0
+255,I test ideas to see what works.,Experimentation,I try out various techniques to discover their effects,0.5515643,1,0
+256,I test ideas to see what works.,Experimentation,I play around with ideas to see what works,0.39249873,1,0
+257,I test ideas to see what works.,Experimentation,I use trial and error to gain knowledge,0.43503714,1,0
+258,I test ideas to see what works.,Experimentation,I investigate new possibilities to expand my understanding,0.47636884,1,0
+259,I test ideas to see what works.,Experimentation,I practice different strategies to see which is best,0.31087458,1,0
+260,I test ideas to see what works.,Experimentation,I explore options to find new outcomes,0.45211613,1,0
+261,I test ideas to see what works.,Experimentation,I test things to learn from the results,0.6102584,1,0
+262,I test ideas to see what works.,Experimentation,I try different ways to improve my skills,0.3370762,1,0
+263,I test ideas to see what works.,Experimentation,I experiment with new recipes to see how they taste,0.5492115,1,0
+264,I test ideas to see what works.,Experimentation,I attempt various solutions to solve problems,0.2901029,1,0
+265,I test ideas to see what works.,Experimentation,I try new activities to see my reactions,0.50863343,1,0
+266,I test ideas to see what works.,Experimentation,I test various ideas to see which is effective,0.57829624,1,0
+267,I test ideas to see what works.,Experimentation,I try different materials to create something new,0.37009358,1,0
+268,I test ideas to see what works.,Experimentation,I experiment with colors to understand their combinations,0.43227646,1,0
+269,I test ideas to see what works.,Experimentation,I explore new paths to see where they lead,0.33724982,1,0
+270,I test ideas to see what works.,Experimentation,I try out new hobbies to learn what I enjoy,0.3568928,1,0
+271,I test ideas to see what works.,Experimentation,I test my abilities to see my limits,0.5433011,1,0
+272,I test ideas to see what works.,Experimentation,I explore different perspectives to broaden my view,0.3362326,1,0
+273,I test ideas to see what works.,Experimentation,I try new exercises to see how they affect me,0.39201194,1,0
+274,I test ideas to see what works.,Experimentation,I experiment with sounds to create music,0.46562225,1,0
+275,I combine ideas into new concepts.,Synthesising,I combine different ideas into one.,0.40010667,1,0
+276,I combine ideas into new concepts.,Synthesising,I put pieces of information together.,0.30198258,1,0
+277,I combine ideas into new concepts.,Synthesising,I create something new from various elements.,0.5089733,1,0
+278,I combine ideas into new concepts.,Synthesising,I bring different concepts into a single whole.,0.2968931,1,0
+279,I combine ideas into new concepts.,Synthesising,I integrate various sources into a cohesive idea.,0.3527866,1,0
+280,I combine ideas into new concepts.,Synthesising,I merge separate ideas into one understanding.,0.3521635,1,0
+281,I combine ideas into new concepts.,Synthesising,I unite different pieces into a single concept.,0.39043337,1,0
+282,I combine ideas into new concepts.,Synthesising,I compile information to form a complete picture.,0.45181897,1,0
+283,I combine ideas into new concepts.,Synthesising,I blend different thoughts into a unified idea.,0.32413822,1,0
+284,I combine ideas into new concepts.,Synthesising,I assemble parts to create a new whole.,0.41225642,1,0
+285,I combine ideas into new concepts.,Synthesising,I join different perspectives to make a new idea.,0.30227357,1,0
+286,I combine ideas into new concepts.,Synthesising,I consolidate various details into a single view.,0.21218318,1,0
+287,I combine ideas into new concepts.,Synthesising,I fuse different ideas into a coherent whole.,0.3464508,1,0
+288,I combine ideas into new concepts.,Synthesising,I gather information to form a complete idea.,0.3320233,1,0
+289,I combine ideas into new concepts.,Synthesising,I weave together different concepts into one.,0.35600385,1,0
+290,I combine ideas into new concepts.,Synthesising,I harmonize various elements into a unified concept.,0.43217105,1,0
+291,I combine ideas into new concepts.,Synthesising,I construct a whole from different parts.,0.44334596,1,0
+292,I combine ideas into new concepts.,Synthesising,I incorporate diverse ideas into a single understanding.,0.2594363,1,0
+293,I combine ideas into new concepts.,Synthesising,I connect different bits of information into one.,0.31406924,1,0
+294,I combine ideas into new concepts.,Synthesising,I form a new idea by combining elements.,0.4562288,1,0
+295,I combine ideas into new concepts.,Synthesising,I synthesize different pieces into a complete thought.,0.47097164,1,0
+296,I combine ideas into new concepts.,Synthesising,I link various ideas to create something new.,0.38004202,1,0
+297,I combine ideas into new concepts.,Synthesising,I formulate a new concept from existing information.,0.35071677,1,0
+298,I combine ideas into new concepts.,Synthesising,I integrate different viewpoints into a single idea.,0.3050309,1,0
+299,I combine ideas into new concepts.,Synthesising,I develop a comprehensive idea from multiple sources.,0.3331269,1,0
+300,I aim for challenging goals.,Achievement Focus,I strive to reach my goals.,0.4749971,1,0
+301,I aim for challenging goals.,Achievement Focus,I set specific targets for myself.,0.45404345,1,0
+302,I aim for challenging goals.,Achievement Focus,I am committed to achieving my objectives.,0.41506344,1,0
+303,I aim for challenging goals.,Achievement Focus,I work hard to accomplish my aims.,0.43476856,1,0
+304,I aim for challenging goals.,Achievement Focus,I am focused on my achievements.,0.70361894,1,0
+305,I aim for challenging goals.,Achievement Focus,I keep my eyes on success.,0.44088304,1,0
+306,I aim for challenging goals.,Achievement Focus,I aim to complete my tasks effectively.,0.42914182,1,0
+307,I aim for challenging goals.,Achievement Focus,I am driven to succeed.,0.42648336,1,0
+308,I aim for challenging goals.,Achievement Focus,I prioritize reaching my goals.,0.5369034,1,0
+309,I aim for challenging goals.,Achievement Focus,I dedicate myself to my ambitions.,0.45313668,1,0
+310,I aim for challenging goals.,Achievement Focus,I put effort into achieving my targets.,0.52703774,1,0
+311,I aim for challenging goals.,Achievement Focus,I am goal-oriented in my actions.,0.48572797,1,0
+312,I aim for challenging goals.,Achievement Focus,I concentrate on reaching my objectives.,0.5493394,1,0
+313,I aim for challenging goals.,Achievement Focus,I am determined to meet my goals.,0.40184778,1,0
+314,I aim for challenging goals.,Achievement Focus,I focus on fulfilling my aspirations.,0.51572,1,0
+315,I aim for challenging goals.,Achievement Focus,I apply myself to accomplish my goals.,0.44588953,1,0
+316,I aim for challenging goals.,Achievement Focus,I persist to achieve my aims.,0.44384038,1,0
+317,I aim for challenging goals.,Achievement Focus,I am motivated to succeed in my tasks.,0.44526672,1,0
+318,I aim for challenging goals.,Achievement Focus,I pursue my objectives with dedication.,0.5191027,1,0
+319,I aim for challenging goals.,Achievement Focus,I am keen to achieve my targets.,0.4716705,1,0
+320,I aim for challenging goals.,Achievement Focus,I work towards fulfilling my goals.,0.44483346,1,0
+321,I aim for challenging goals.,Achievement Focus,I am focused on my accomplishments.,0.6553577,1,0
+322,I aim for challenging goals.,Achievement Focus,I aim to succeed in my efforts.,0.44452584,1,0
+323,I aim for challenging goals.,Achievement Focus,I concentrate on realizing my goals.,0.5114567,1,0
+324,I aim for challenging goals.,Achievement Focus,I am intent on achieving my objectives.,0.42574513,1,0
+325,I stick to a task until done.,Discipline,I follow a structured routine every day.,0.23781759,1,0
+326,I stick to a task until done.,Discipline,I manage my time effectively to achieve my goals.,0.34003937,1,0
+327,I stick to a task until done.,Discipline,I set clear rules for myself to stay organized.,0.2912085,1,0
+328,I stick to a task until done.,Discipline,I maintain focus on my tasks throughout the day.,0.2652357,1,0
+329,I stick to a task until done.,Discipline,I work steadily to complete my assignments on time.,0.29143116,1,0
+330,I stick to a task until done.,Discipline,I adhere to my schedule to be productive.,0.29380298,1,0
+331,I stick to a task until done.,Discipline,I organize my work environment for better efficiency.,0.23621449,1,0
+332,I stick to a task until done.,Discipline,I prioritize tasks to ensure timely completion.,0.265804,1,0
+333,I stick to a task until done.,Discipline,I stick to my plan to achieve success.,0.36916214,1,0
+334,I stick to a task until done.,Discipline,I balance my activities to ensure progress.,0.41458827,1,0
+335,I stick to a task until done.,Discipline,I practice self-control in my daily habits.,0.4576082,1,0
+336,I stick to a task until done.,Discipline,I keep my workspace tidy and functional.,0.15534182,1,0
+337,I stick to a task until done.,Discipline,I allocate my time wisely to meet my objectives.,0.331003,1,0
+338,I stick to a task until done.,Discipline,I ensure consistency in my work approach.,0.39750594,1,0
+339,I stick to a task until done.,Discipline,I use a planner to track my tasks.,0.12443241,1,0
+340,I stick to a task until done.,Discipline,I follow through with my commitments diligently.,0.449911,1,0
+341,I stick to a task until done.,Discipline,I establish a routine to manage my day effectively.,0.33928186,1,0
+342,I stick to a task until done.,Discipline,I dedicate time to each task as planned.,0.26829872,1,0
+343,I stick to a task until done.,Discipline,I stay committed to my personal goals.,0.3840178,1,0
+344,I stick to a task until done.,Discipline,I apply effort consistently to improve my skills.,0.48097366,1,0
+345,I stick to a task until done.,Discipline,I keep a checklist to monitor my progress.,0.27318066,1,0
+346,I stick to a task until done.,Discipline,I focus on completing projects step by step.,0.19956088,1,0
+347,I stick to a task until done.,Discipline,I approach my responsibilities with determination.,0.44604382,1,0
+348,I stick to a task until done.,Discipline,I hold myself accountable for my daily actions.,0.3357088,1,0
+349,I stick to a task until done.,Discipline,I execute my plans with precision.,0.28056148,1,0
+350,I adjust plans when things change.,Adaptable Execution,I adjust my actions to different situations.,0.35186672,1,0
+351,I adjust plans when things change.,Adaptable Execution,I carry out tasks flexibly.,0.29994106,1,0
+352,I adjust plans when things change.,Adaptable Execution,I handle changes smoothly in my work.,0.28897384,1,0
+353,I adjust plans when things change.,Adaptable Execution,I adapt my methods to suit the situation.,0.3993368,1,0
+354,I adjust plans when things change.,Adaptable Execution,I modify my approach as needed.,0.3018186,1,0
+355,I adjust plans when things change.,Adaptable Execution,I perform tasks with flexibility.,0.33543423,1,0
+356,I adjust plans when things change.,Adaptable Execution,I adjust my execution based on circumstances.,0.50949544,1,0
+357,I adjust plans when things change.,Adaptable Execution,I alter my actions to fit the context.,0.2969318,1,0
+358,I adjust plans when things change.,Adaptable Execution,I change my methods to match the situation.,0.27770793,1,0
+359,I adjust plans when things change.,Adaptable Execution,I implement plans with adaptability.,0.5362951,1,0
+360,I adjust plans when things change.,Adaptable Execution,I tailor my actions to different conditions.,0.39786303,1,0
+361,I adjust plans when things change.,Adaptable Execution,I adapt my strategies during tasks.,0.38529354,1,0
+362,I adjust plans when things change.,Adaptable Execution,I execute tasks with an adaptable mindset.,0.5372514,1,0
+363,I adjust plans when things change.,Adaptable Execution,I adjust my way of working to new situations.,0.2939752,1,0
+364,I adjust plans when things change.,Adaptable Execution,I handle tasks with adaptability.,0.49960464,1,0
+365,I adjust plans when things change.,Adaptable Execution,I modify my execution to suit different needs.,0.60475767,1,0
+366,I adjust plans when things change.,Adaptable Execution,I change my approach to fit new challenges.,0.3008508,1,0
+367,I adjust plans when things change.,Adaptable Execution,I adapt my execution style to the situation.,0.4065513,1,0
+368,I adjust plans when things change.,Adaptable Execution,I perform my tasks with adaptability in mind.,0.46931067,1,0
+369,I adjust plans when things change.,Adaptable Execution,I tailor my execution to varying situations.,0.5189841,1,0
+370,I adjust plans when things change.,Adaptable Execution,I adapt my work methods as needed.,0.4009229,1,0
+371,I adjust plans when things change.,Adaptable Execution,I adjust my task execution to different environments.,0.47973278,1,0
+372,I adjust plans when things change.,Adaptable Execution,I change my execution strategy depending on the situation.,0.47740117,1,0
+373,I adjust plans when things change.,Adaptable Execution,I perform my duties with flexibility.,0.30674842,1,0
+374,I adjust plans when things change.,Adaptable Execution,I adapt my approach to different tasks.,0.41169864,1,0
+375,I bounce back after setbacks.,Resilience,I handle problems in my life calmly.,0.28736162,1,0
+376,I bounce back after setbacks.,Resilience,I bounce back from difficult situations.,0.5340958,1,0
+377,I bounce back after setbacks.,Resilience,I stay strong when things are tough.,0.4853257,1,0
+378,I bounce back after setbacks.,Resilience,I face challenges with a positive attitude.,0.39186037,1,0
+379,I bounce back after setbacks.,Resilience,I keep going even when it's hard.,0.32918695,1,0
+380,I bounce back after setbacks.,Resilience,I recover quickly from setbacks.,0.46050853,1,0
+381,I bounce back after setbacks.,Resilience,I cope well with stress.,0.36187804,1,0
+382,I bounce back after setbacks.,Resilience,I find solutions when I encounter difficulties.,0.29636246,1,0
+383,I bounce back after setbacks.,Resilience,I maintain my strength through challenges.,0.54831004,1,0
+384,I bounce back after setbacks.,Resilience,I stay positive during hard times.,0.4536213,1,0
+385,I bounce back after setbacks.,Resilience,I adapt well to changes in life.,0.32287174,1,0
+386,I bounce back after setbacks.,Resilience,I overcome obstacles effectively.,0.4316643,1,0
+387,I bounce back after setbacks.,Resilience,I endure through difficult times.,0.48642236,1,0
+388,I bounce back after setbacks.,Resilience,I stay hopeful when faced with problems.,0.40483364,1,0
+389,I bounce back after setbacks.,Resilience,I manage to stay calm under pressure.,0.3220533,1,0
+390,I bounce back after setbacks.,Resilience,I deal with adversity with strength.,0.5647663,1,0
+391,I bounce back after setbacks.,Resilience,I stay determined during tough situations.,0.45049173,1,0
+392,I bounce back after setbacks.,Resilience,I keep my composure in challenging times.,0.47143173,1,0
+393,I bounce back after setbacks.,Resilience,I look for the good in difficult situations.,0.32056034,1,0
+394,I bounce back after setbacks.,Resilience,I stay optimistic despite challenges.,0.45155907,1,0
+395,I bounce back after setbacks.,Resilience,I approach problems with resilience.,0.72604525,1,0
+396,I bounce back after setbacks.,Resilience,I maintain a positive outlook during hardships.,0.46930966,1,0
+397,I bounce back after setbacks.,Resilience,I find ways to overcome difficulties.,0.4373666,1,0
+398,I bounce back after setbacks.,Resilience,I persevere through life's challenges.,0.4791054,1,0
+399,I bounce back after setbacks.,Resilience,I stay focused when things get tough.,0.42515814,1,0
+400,I act without being told.,Initiative,I take the first step in new projects.,0.4528033,1,0
+401,I act without being told.,Initiative,I start tasks without waiting for others.,0.40098876,1,0
+402,I act without being told.,Initiative,I like to begin new activities.,0.33947587,1,0
+403,I act without being told.,Initiative,I enjoy taking charge of situations.,0.36948395,1,0
+404,I act without being told.,Initiative,I lead when there is a need to act.,0.40234995,1,0
+405,I act without being told.,Initiative,I am the first to try new things.,0.34988922,1,0
+406,I act without being told.,Initiative,I set plans in motion by myself.,0.38246828,1,0
+407,I act without being told.,Initiative,I start working on ideas without prompting.,0.36584607,1,0
+408,I act without being told.,Initiative,I begin tasks without being told.,0.31049997,1,0
+409,I act without being told.,Initiative,I feel motivated to start new ventures.,0.37659383,1,0
+410,I act without being told.,Initiative,I kick off projects on my own.,0.37865472,1,0
+411,I act without being told.,Initiative,I take action without waiting for others.,0.47881144,1,0
+412,I act without being told.,Initiative,I am proactive in starting tasks.,0.4726807,1,0
+413,I act without being told.,Initiative,I start new tasks when I see an opportunity.,0.3812871,1,0
+414,I act without being told.,Initiative,I begin projects without hesitation.,0.42971638,1,0
+415,I act without being told.,Initiative,I make the first move in group activities.,0.3453582,1,0
+416,I act without being told.,Initiative,I initiate tasks to get things going.,0.487288,1,0
+417,I act without being told.,Initiative,I am eager to start new plans.,0.36202067,1,0
+418,I act without being told.,Initiative,I take the lead in starting new things.,0.44934356,1,0
+419,I act without being told.,Initiative,I begin activities when I have a chance.,0.32680786,1,0
+420,I act without being told.,Initiative,I motivate myself to begin projects.,0.38078812,1,0
+421,I act without being told.,Initiative,I take the first step in trying something new.,0.35500237,1,0
+422,I act without being told.,Initiative,I start new assignments on my own.,0.34518307,1,0
+423,I act without being told.,Initiative,I like to kick-start projects.,0.4035988,1,0
+424,I act without being told.,Initiative,I begin working on ideas independently.,0.44314605,1,0
+425,I finish tasks in less time.,Efficiency,I work quickly to get my tasks done.,0.37295735,1,0
+426,I finish tasks in less time.,Efficiency,I complete my work with minimal effort.,0.3455471,1,0
+427,I finish tasks in less time.,Efficiency,I use my resources effectively.,0.39841896,1,0
+428,I finish tasks in less time.,Efficiency,I achieve my goals with little wasted time.,0.39772734,1,0
+429,I finish tasks in less time.,Efficiency,I focus on doing things productively.,0.29791665,1,0
+430,I finish tasks in less time.,Efficiency,I manage my time well to finish tasks.,0.270593,1,0
+431,I finish tasks in less time.,Efficiency,I prioritize my tasks to maximize output.,0.379158,1,0
+432,I finish tasks in less time.,Efficiency,I organize my day for high productivity.,0.33080488,1,0
+433,I finish tasks in less time.,Efficiency,I use my skills to improve work results.,0.31495735,1,0
+434,I finish tasks in less time.,Efficiency,I find the best way to complete my work.,0.27035612,1,0
+435,I finish tasks in less time.,Efficiency,I aim to accomplish much with little effort.,0.37540057,1,0
+436,I finish tasks in less time.,Efficiency,I finish projects in a timely manner.,0.30771637,1,0
+437,I finish tasks in less time.,Efficiency,I use smart strategies to complete tasks.,0.3039044,1,0
+438,I finish tasks in less time.,Efficiency,I complete my work without unnecessary delay.,0.33671132,1,0
+439,I finish tasks in less time.,Efficiency,I make sure to use my time wisely.,0.24859902,1,0
+440,I finish tasks in less time.,Efficiency,I aim to be productive in my activities.,0.36969626,1,0
+441,I finish tasks in less time.,Efficiency,I achieve results with the least amount of resources.,0.4704017,1,0
+442,I finish tasks in less time.,Efficiency,I focus on completing tasks efficiently.,0.46634603,1,0
+443,I finish tasks in less time.,Efficiency,I work hard to maximize my productivity.,0.35573792,1,0
+444,I finish tasks in less time.,Efficiency,I look for ways to improve my work performance.,0.35924643,1,0
+445,I finish tasks in less time.,Efficiency,I try to be effective in all my tasks.,0.3477863,1,0
+446,I finish tasks in less time.,Efficiency,I aim to complete tasks with high productivity.,0.44634,1,0
+447,I finish tasks in less time.,Efficiency,I ensure my work is done with minimal waste.,0.37408677,1,0
+448,I finish tasks in less time.,Efficiency,I get things done quickly and effectively.,0.3953519,1,0
+449,I finish tasks in less time.,Efficiency,I strive to be as productive as possible.,0.31378376,1,0
+450,I own the outcomes of my work.,Responsibility,I take care of my duties.,0.46712837,1,0
+451,I own the outcomes of my work.,Responsibility,I handle my tasks properly.,0.35534638,1,0
+452,I own the outcomes of my work.,Responsibility,I am in charge of my actions.,0.56200594,1,0
+453,I own the outcomes of my work.,Responsibility,I manage my own obligations.,0.45345497,1,0
+454,I own the outcomes of my work.,Responsibility,I fulfill my responsibilities daily.,0.38774276,1,0
+455,I own the outcomes of my work.,Responsibility,I oversee my personal commitments.,0.4090863,1,0
+456,I own the outcomes of my work.,Responsibility,I am accountable for my choices.,0.590665,1,0
+457,I own the outcomes of my work.,Responsibility,I look after my own duties.,0.45698327,1,0
+458,I own the outcomes of my work.,Responsibility,I complete my assignments on time.,0.22209443,1,0
+459,I own the outcomes of my work.,Responsibility,I ensure my work is done.,0.32622725,1,0
+460,I own the outcomes of my work.,Responsibility,I care for my responsibilities well.,0.5155831,1,0
+461,I own the outcomes of my work.,Responsibility,I am responsible for my tasks.,0.57354534,1,0
+462,I own the outcomes of my work.,Responsibility,I handle my responsibilities with care.,0.5066118,1,0
+463,I own the outcomes of my work.,Responsibility,I carry out my duties regularly.,0.30391163,1,0
+464,I own the outcomes of my work.,Responsibility,I attend to my obligations carefully.,0.3718923,1,0
+465,I own the outcomes of my work.,Responsibility,I am committed to my duties.,0.3662327,1,0
+466,I own the outcomes of my work.,Responsibility,I take responsibility for my actions.,0.623267,1,0
+467,I own the outcomes of my work.,Responsibility,I ensure I meet my obligations.,0.41846412,1,0
+468,I own the outcomes of my work.,Responsibility,I maintain my responsibilities effectively.,0.4323314,1,0
+469,I own the outcomes of my work.,Responsibility,I perform my duties reliably.,0.35870728,1,0
+470,I own the outcomes of my work.,Responsibility,I am dedicated to my responsibilities.,0.44973147,1,0
+471,I own the outcomes of my work.,Responsibility,I attend to my duties each day.,0.34278312,1,0
+472,I own the outcomes of my work.,Responsibility,I fulfill my roles reliably.,0.3672793,1,0
+473,I own the outcomes of my work.,Responsibility,I manage my responsibilities daily.,0.3598398,1,0
+474,I own the outcomes of my work.,Responsibility,I look after my commitments responsibly.,0.47231942,1,0
+475,I act according to my values.,Ethics,I consider what is right or wrong in my actions.,0.4892139,1,0
+476,I act according to my values.,Ethics,I think about moral principles in my daily life.,0.47995222,1,0
+477,I act according to my values.,Ethics,I follow rules that guide good behavior.,0.458888,1,0
+478,I act according to my values.,Ethics,I believe in doing the right thing.,0.39830077,1,0
+479,I act according to my values.,Ethics,I act according to my values.,0.4763848,1,0
+480,I act according to my values.,Ethics,I make decisions based on what is fair.,0.47041804,1,0
+481,I act according to my values.,Ethics,I care about how my actions affect others.,0.4168388,1,0
+482,I act according to my values.,Ethics,I understand the importance of honesty.,0.33676973,1,0
+483,I act according to my values.,Ethics,I respect the difference between right and wrong.,0.44237816,1,0
+484,I act according to my values.,Ethics,I adhere to principles of fairness.,0.44533163,1,0
+485,I act according to my values.,Ethics,I evaluate my choices using ethical standards.,0.6612873,1,0
+486,I act according to my values.,Ethics,I strive to act with integrity.,0.47807634,1,0
+487,I act according to my values.,Ethics,I focus on doing what is morally correct.,0.45469755,1,0
+488,I act according to my values.,Ethics,I practice making ethical decisions.,0.58450043,1,0
+489,I act according to my values.,Ethics,I prioritize honesty in my actions.,0.4643883,1,0
+490,I act according to my values.,Ethics,I reflect on the morality of my choices.,0.42462313,1,0
+491,I act according to my values.,Ethics,I aim to be fair in my dealings.,0.38849977,1,0
+492,I act according to my values.,Ethics,I uphold ethical standards in my life.,0.65034866,1,0
+493,I act according to my values.,Ethics,I commit to doing what is just.,0.29259226,1,0
+494,I act according to my values.,Ethics,I recognize the significance of ethical behavior.,0.568559,1,0
+495,I act according to my values.,Ethics,I apply ethical guidelines to my actions.,0.6317774,1,0
+496,I act according to my values.,Ethics,I value truthfulness and honesty.,0.4376654,1,0
+497,I act according to my values.,Ethics,I incorporate ethics into my decision-making.,0.6694791,1,0
+498,I act according to my values.,Ethics,I consider the ethical impact of my actions.,0.59844404,1,0
+499,I act according to my values.,Ethics,I embrace ethical conduct in my everyday life.,0.5722411,1,0
+500,I deliver on time consistently.,Reliability,I count on things being dependable.,0.5908206,1,0
+501,I deliver on time consistently.,Reliability,I trust the consistency of outcomes.,0.5252401,1,0
+502,I deliver on time consistently.,Reliability,I believe in the steadiness of this process.,0.33868247,1,0
+503,I deliver on time consistently.,Reliability,I rely on things to work as expected.,0.4138341,1,0
+504,I deliver on time consistently.,Reliability,I have faith in the reliability of this service.,0.5367718,1,0
+505,I deliver on time consistently.,Reliability,I depend on the stability of the system.,0.39177716,1,0
+506,I deliver on time consistently.,Reliability,I expect things to perform reliably.,0.5180607,1,0
+507,I deliver on time consistently.,Reliability,I appreciate the dependability of these results.,0.45495287,1,0
+508,I deliver on time consistently.,Reliability,I feel confident in the regularity of this pattern.,0.2818968,1,0
+509,I deliver on time consistently.,Reliability,I recognize the trustworthiness of the information.,0.36317948,1,0
+510,I deliver on time consistently.,Reliability,I see that this method is consistently reliable.,0.3439271,1,0
+511,I deliver on time consistently.,Reliability,I appreciate the predictability of this system.,0.34655795,1,0
+512,I deliver on time consistently.,Reliability,I know that I can count on these results.,0.20136061,1,0
+513,I deliver on time consistently.,Reliability,I trust this process to be reliable.,0.5121932,1,0
+514,I deliver on time consistently.,Reliability,I believe this system performs dependably.,0.46319053,1,0
+515,I deliver on time consistently.,Reliability,I acknowledge the constant reliability of this tool.,0.45362103,1,0
+516,I deliver on time consistently.,Reliability,I expect consistent results from this procedure.,0.29760927,1,0
+517,I deliver on time consistently.,Reliability,I find that this service is always reliable.,0.48021114,1,0
+518,I deliver on time consistently.,Reliability,I depend on the regular performance of this device.,0.41127938,1,0
+519,I deliver on time consistently.,Reliability,I am confident in the trustworthiness of this method.,0.36090285,1,0
+520,I deliver on time consistently.,Reliability,I rely on the consistent quality of this product.,0.53887665,1,0
+521,I deliver on time consistently.,Reliability,I recognize the reliability of these outcomes.,0.46327,1,0
+522,I deliver on time consistently.,Reliability,I appreciate the stable performance of this application.,0.24954034,1,0
+523,I deliver on time consistently.,Reliability,I trust in the dependable nature of this equipment.,0.57053626,1,0
+524,I deliver on time consistently.,Reliability,I have confidence in the consistent results of this experiment.,0.28615534,1,0
+525,I stay calm when waiting.,Patience,I am patient with others.,0.55835724,1,0
+526,I stay calm when waiting.,Patience,I wait calmly in difficult situations.,0.5037017,1,0
+527,I stay calm when waiting.,Patience,I stay calm when things take time.,0.52158546,1,0
+528,I stay calm when waiting.,Patience,I handle delays with patience.,0.6258522,1,0
+529,I stay calm when waiting.,Patience,I accept waiting without frustration.,0.5161428,1,0
+530,I stay calm when waiting.,Patience,I remain composed in slow progress.,0.44619486,1,0
+531,I stay calm when waiting.,Patience,I deal with waiting quietly.,0.4932054,1,0
+532,I stay calm when waiting.,Patience,I keep my cool when waiting.,0.5461785,1,0
+533,I stay calm when waiting.,Patience,I show patience in challenging times.,0.5832548,1,0
+534,I stay calm when waiting.,Patience,I have the ability to wait calmly.,0.44983026,1,0
+535,I stay calm when waiting.,Patience,I understand the need for patience.,0.5408704,1,0
+536,I stay calm when waiting.,Patience,I manage waiting situations well.,0.4463432,1,0
+537,I stay calm when waiting.,Patience,I exercise patience in long lines.,0.5128437,1,0
+538,I stay calm when waiting.,Patience,I handle slow situations with ease.,0.3784733,1,0
+539,I stay calm when waiting.,Patience,I show patience when things go slowly.,0.63527966,1,0
+540,I stay calm when waiting.,Patience,I practice patience in busy places.,0.5415588,1,0
+541,I stay calm when waiting.,Patience,I wait with patience in traffic.,0.47214526,1,0
+542,I stay calm when waiting.,Patience,I stay patient during long meetings.,0.49885225,1,0
+543,I stay calm when waiting.,Patience,I approach delays patiently.,0.3891224,1,0
+544,I stay calm when waiting.,Patience,I deal with waiting positively.,0.5380192,1,0
+545,I stay calm when waiting.,Patience,I show patience when learning new things.,0.5796912,1,0
+546,I stay calm when waiting.,Patience,I stay patient with young children.,0.4801166,1,0
+547,I stay calm when waiting.,Patience,I manage my time with patience.,0.5674573,1,0
+548,I stay calm when waiting.,Patience,I handle disruptions patiently.,0.47477835,1,0
+549,I stay calm when waiting.,Patience,I demonstrate patience in everyday life.,0.54996485,1,0
+550,I keep tasks and data in order.,Organising,I arrange things in my life.,0.4578995,1,0
+551,I keep tasks and data in order.,Organising,I put things in order.,0.36479923,1,0
+552,I keep tasks and data in order.,Organising,I plan my schedule.,0.39528984,1,0
+553,I keep tasks and data in order.,Organising,I set up meetings.,0.40860796,1,0
+554,I keep tasks and data in order.,Organising,I create a system for my tasks.,0.41662002,1,0
+555,I keep tasks and data in order.,Organising,I coordinate events.,0.4732688,1,0
+556,I keep tasks and data in order.,Organising,I sort my belongings.,0.38426065,1,0
+557,I keep tasks and data in order.,Organising,I plan activities for the week.,0.36614347,1,0
+558,I keep tasks and data in order.,Organising,I manage my time effectively.,0.39924076,1,0
+559,I keep tasks and data in order.,Organising,I prepare for upcoming events.,0.43721253,1,0
+560,I keep tasks and data in order.,Organising,I structure my day.,0.4342663,1,0
+561,I keep tasks and data in order.,Organising,I organize my workspace.,0.47212848,1,0
+562,I keep tasks and data in order.,Organising,I categorize my files.,0.31066802,1,0
+563,I keep tasks and data in order.,Organising,I schedule my appointments.,0.2986949,1,0
+564,I keep tasks and data in order.,Organising,I set priorities for my tasks.,0.37132886,1,0
+565,I keep tasks and data in order.,Organising,I arrange my travel plans.,0.4222882,1,0
+566,I keep tasks and data in order.,Organising,I systematize my daily routines.,0.3494993,1,0
+567,I keep tasks and data in order.,Organising,I tidy up my room.,0.32662103,1,0
+568,I keep tasks and data in order.,Organising,I plan my daily activities.,0.4106334,1,0
+569,I keep tasks and data in order.,Organising,I arrange my thoughts clearly.,0.34308594,1,0
+570,I keep tasks and data in order.,Organising,I keep track of my responsibilities.,0.43044367,1,0
+571,I keep tasks and data in order.,Organising,I develop a plan for the project.,0.40500534,1,0
+572,I keep tasks and data in order.,Organising,I align my goals and tasks.,0.40561324,1,0
+573,I keep tasks and data in order.,Organising,I coordinate my team’s efforts.,0.4213636,1,0
+574,I keep tasks and data in order.,Organising,I compile information for easy access.,0.24436201,1,0
+575,I take steps to avoid accidents.,Safety Orientation,I understand the importance of safety guidelines.,0.54639524,1,0
+576,I take steps to avoid accidents.,Safety Orientation,I participate in safety training sessions.,0.6179918,1,0
+577,I take steps to avoid accidents.,Safety Orientation,I learn about staying safe at work.,0.46294203,1,0
+578,I take steps to avoid accidents.,Safety Orientation,I attend safety briefings regularly.,0.5535557,1,0
+579,I take steps to avoid accidents.,Safety Orientation,I focus on safety procedures.,0.64248645,1,0
+580,I take steps to avoid accidents.,Safety Orientation,I follow the rules for safety.,0.5059247,1,0
+581,I take steps to avoid accidents.,Safety Orientation,I take part in safety workshops.,0.5857634,1,0
+582,I take steps to avoid accidents.,Safety Orientation,I understand the safety instructions.,0.5079626,1,0
+583,I take steps to avoid accidents.,Safety Orientation,I engage in learning about safety measures.,0.62248117,1,0
+584,I take steps to avoid accidents.,Safety Orientation,I pay attention to safety information.,0.58936393,1,0
+585,I take steps to avoid accidents.,Safety Orientation,I familiarize myself with safety protocols.,0.5894185,1,0
+586,I take steps to avoid accidents.,Safety Orientation,I invest time in safety training.,0.54612255,1,0
+587,I take steps to avoid accidents.,Safety Orientation,I listen carefully to safety advice.,0.5586924,1,0
+588,I take steps to avoid accidents.,Safety Orientation,I gain knowledge about safety practices.,0.5819886,1,0
+589,I take steps to avoid accidents.,Safety Orientation,I prioritize understanding safety guidelines.,0.59256446,1,0
+590,I take steps to avoid accidents.,Safety Orientation,I concentrate on learning safety measures.,0.54872924,1,0
+591,I take steps to avoid accidents.,Safety Orientation,I focus on understanding safety rules.,0.5350723,1,0
+592,I take steps to avoid accidents.,Safety Orientation,I study the safety regulations.,0.50564545,1,0
+593,I take steps to avoid accidents.,Safety Orientation,I acquire knowledge about safety procedures.,0.5977362,1,0
+594,I take steps to avoid accidents.,Safety Orientation,I participate in understanding safety measures.,0.6575153,1,0
+595,I take steps to avoid accidents.,Safety Orientation,I engage with safety training programs.,0.6199318,1,0
+596,I take steps to avoid accidents.,Safety Orientation,I absorb information about safety measures.,0.55861044,1,0
+597,I take steps to avoid accidents.,Safety Orientation,I learn the necessary safety precautions.,0.50529766,1,0
+598,I take steps to avoid accidents.,Safety Orientation,I attend sessions on safety awareness.,0.60393995,1,0
+599,I take steps to avoid accidents.,Safety Orientation,I grasp the importance of safety education.,0.61360973,1,0
+600,I feel others' emotions.,Empathy,I understand how other people feel.,0.27335113,1,0
+601,I feel others' emotions.,Empathy,I can relate to others' emotions.,0.49198166,1,0
+602,I feel others' emotions.,Empathy,I feel what others are experiencing.,0.36888045,1,0
+603,I feel others' emotions.,Empathy,I connect with people's feelings.,0.53339326,1,0
+604,I feel others' emotions.,Empathy,I share in others' emotional experiences.,0.45790312,1,0
+605,I feel others' emotions.,Empathy,I recognize others' feelings easily.,0.51603174,1,0
+606,I feel others' emotions.,Empathy,I identify with others' emotions.,0.5491818,1,0
+607,I feel others' emotions.,Empathy,I sense when someone is upset.,0.5097395,1,0
+608,I feel others' emotions.,Empathy,I pick up on people's moods.,0.3509361,1,0
+609,I feel others' emotions.,Empathy,I am aware of others' emotional states.,0.45064607,1,0
+610,I feel others' emotions.,Empathy,I feel others' happiness and sadness.,0.5304053,1,0
+611,I feel others' emotions.,Empathy,I understand others' emotional situations.,0.4980238,1,0
+612,I feel others' emotions.,Empathy,I notice when someone is feeling down.,0.4195603,1,0
+613,I feel others' emotions.,Empathy,I am sensitive to others' emotions.,0.48388582,1,0
+614,I feel others' emotions.,Empathy,I respond to people's feelings.,0.42786866,1,0
+615,I feel others' emotions.,Empathy,I can see things from others' perspectives.,0.38021195,1,0
+616,I feel others' emotions.,Empathy,I experience others' emotions as my own.,0.5089718,1,0
+617,I feel others' emotions.,Empathy,I put myself in others' shoes.,0.39098057,1,0
+618,I feel others' emotions.,Empathy,I feel sympathy for others' situations.,0.5416038,1,0
+619,I feel others' emotions.,Empathy,I am in tune with others' feelings.,0.44646728,1,0
+620,I feel others' emotions.,Empathy,I resonate with others' emotional experiences.,0.5332333,1,0
+621,I feel others' emotions.,Empathy,I am conscious of others' emotional needs.,0.49702674,1,0
+622,I feel others' emotions.,Empathy,I perceive others' feelings clearly.,0.49922416,1,0
+623,I feel others' emotions.,Empathy,I comprehend others' emotional responses.,0.547616,1,0
+624,I feel others' emotions.,Empathy,I tune into others' emotional worlds.,0.4737345,1,0
+625,I read social cues accurately.,Social Awareness,I understand how people around me feel.,0.30457616,1,0
+626,I read social cues accurately.,Social Awareness,I notice the emotions of others in my surroundings.,0.4491703,1,0
+627,I read social cues accurately.,Social Awareness,I pay attention to the feelings of people I meet.,0.3948765,1,0
+628,I read social cues accurately.,Social Awareness,I am aware of the social dynamics in a group.,0.5084239,1,0
+629,I read social cues accurately.,Social Awareness,I sense when someone is uncomfortable in a situation.,0.37277907,1,0
+630,I read social cues accurately.,Social Awareness,I recognize different social cues and signals.,0.44261688,1,0
+631,I read social cues accurately.,Social Awareness,I appreciate the perspectives of others in conversations.,0.36406648,1,0
+632,I read social cues accurately.,Social Awareness,I stay mindful of how my actions affect people.,0.43295282,1,0
+633,I read social cues accurately.,Social Awareness,I listen carefully to what others are saying.,0.28947276,1,0
+634,I read social cues accurately.,Social Awareness,I respect the customs and traditions of different cultures.,0.19455434,1,0
+635,I read social cues accurately.,Social Awareness,I am conscious of the needs of my community.,0.48307988,1,0
+636,I read social cues accurately.,Social Awareness,I empathize with others and their experiences.,0.2907985,1,0
+637,I read social cues accurately.,Social Awareness,I observe how people interact with each other.,0.5172398,1,0
+638,I read social cues accurately.,Social Awareness,I understand the importance of social harmony.,0.49511352,1,0
+639,I read social cues accurately.,Social Awareness,I value the input and feedback from others.,0.23288529,1,0
+640,I read social cues accurately.,Social Awareness,I notice when someone needs help or support.,0.46814343,1,0
+641,I read social cues accurately.,Social Awareness,I respond appropriately to social situations.,0.46709064,1,0
+642,I read social cues accurately.,Social Awareness,I am attentive to changes in group dynamics.,0.3818889,1,0
+643,I read social cues accurately.,Social Awareness,I engage with others by considering their points of view.,0.47008955,1,0
+644,I read social cues accurately.,Social Awareness,I am sensitive to the moods of people around me.,0.28843123,1,0
+645,I read social cues accurately.,Social Awareness,I recognize the importance of social relationships.,0.5496563,1,0
+646,I read social cues accurately.,Social Awareness,I participate in discussions with respect for others.,0.41943288,1,0
+647,I read social cues accurately.,Social Awareness,I am thoughtful about my role in social settings.,0.53681904,1,0
+648,I read social cues accurately.,Social Awareness,I relate to others by understanding their feelings.,0.45787996,1,0
+649,I read social cues accurately.,Social Awareness,I remain aware of the societal context around me.,0.50663495,1,0
+650,I cooperate toward shared goals.,Collaboration,I work together with others on projects.,0.643867,1,0
+651,I cooperate toward shared goals.,Collaboration,I team up with my colleagues.,0.6308248,1,0
+652,I cooperate toward shared goals.,Collaboration,I join forces with my classmates for assignments.,0.5554359,1,0
+653,I cooperate toward shared goals.,Collaboration,I participate in group activities.,0.48592192,1,0
+654,I cooperate toward shared goals.,Collaboration,I share ideas with my teammates.,0.58605915,1,0
+655,I cooperate toward shared goals.,Collaboration,I cooperate with my friends on tasks.,0.5748147,1,0
+656,I cooperate toward shared goals.,Collaboration,I engage in joint efforts with my peers.,0.6312963,1,0
+657,I cooperate toward shared goals.,Collaboration,I contribute to group work.,0.5816058,1,0
+658,I cooperate toward shared goals.,Collaboration,I collaborate with my coworkers on tasks.,0.61289924,1,0
+659,I cooperate toward shared goals.,Collaboration,I take part in team discussions.,0.51498497,1,0
+660,I cooperate toward shared goals.,Collaboration,I help others achieve common goals.,0.5309651,1,0
+661,I cooperate toward shared goals.,Collaboration,I coordinate with others to complete a project.,0.6491435,1,0
+662,I cooperate toward shared goals.,Collaboration,I plan with my team to get things done.,0.4548868,1,0
+663,I cooperate toward shared goals.,Collaboration,I exchange viewpoints with my group.,0.4928984,1,0
+664,I cooperate toward shared goals.,Collaboration,I partner with others to solve problems.,0.65210235,1,0
+665,I cooperate toward shared goals.,Collaboration,I assist in group projects.,0.5713186,1,0
+666,I cooperate toward shared goals.,Collaboration,I combine efforts with my team.,0.5632857,1,0
+667,I cooperate toward shared goals.,Collaboration,I support team members in our work.,0.49980006,1,0
+668,I cooperate toward shared goals.,Collaboration,I communicate with others to reach an agreement.,0.4976898,1,0
+669,I cooperate toward shared goals.,Collaboration,I interact with others to finish assignments.,0.45776975,1,0
+670,I cooperate toward shared goals.,Collaboration,I participate actively in group tasks.,0.51073086,1,0
+671,I cooperate toward shared goals.,Collaboration,I unify efforts with my colleagues.,0.606025,1,0
+672,I cooperate toward shared goals.,Collaboration,I pool resources with my team.,0.51548576,1,0
+673,I cooperate toward shared goals.,Collaboration,I brainstorm ideas with my group.,0.56767845,1,0
+674,I cooperate toward shared goals.,Collaboration,I build on others' ideas in teamwork.,0.6231584,1,0
+675,I earn others' confidence.,Trust Building,I focus on creating trust in my relationships.,0.6309331,1,0
+676,I earn others' confidence.,Trust Building,I work on building trust with others.,0.6531342,1,0
+677,I earn others' confidence.,Trust Building,I make an effort to earn trust from people.,0.6370481,1,0
+678,I earn others' confidence.,Trust Building,I aim to establish trust with those around me.,0.6836609,1,0
+679,I earn others' confidence.,Trust Building,I prioritize developing trust with my colleagues.,0.6333693,1,0
+680,I earn others' confidence.,Trust Building,I value building trust in my friendships.,0.6348537,1,0
+681,I earn others' confidence.,Trust Building,I strive to create a trusting environment.,0.62614805,1,0
+682,I earn others' confidence.,Trust Building,I concentrate on fostering trust with my team.,0.55200684,1,0
+683,I earn others' confidence.,Trust Building,I dedicate time to developing trust in my family.,0.56976414,1,0
+684,I earn others' confidence.,Trust Building,I believe in strengthening trust with my partner.,0.58495283,1,0
+685,I earn others' confidence.,Trust Building,I aim to nurture trust in my workplace.,0.6801708,1,0
+686,I earn others' confidence.,Trust Building,I commit to promoting trust in my community.,0.5058663,1,0
+687,I earn others' confidence.,Trust Building,I seek to cultivate trust in my interactions.,0.7487283,1,0
+688,I earn others' confidence.,Trust Building,I focus on enhancing trust in my social circle.,0.6578355,1,0
+689,I earn others' confidence.,Trust Building,I invest in building trust with my peers.,0.57272744,1,0
+690,I earn others' confidence.,Trust Building,I work towards establishing trust with my clients.,0.64467794,1,0
+691,I earn others' confidence.,Trust Building,I concentrate on creating trust within my group.,0.5777329,1,0
+692,I earn others' confidence.,Trust Building,I value fostering trust in my network.,0.587119,1,0
+693,I earn others' confidence.,Trust Building,I strive to maintain trust in my partnerships.,0.65204465,1,0
+694,I earn others' confidence.,Trust Building,I aim to enhance trust with my neighbors.,0.5519431,1,0
+695,I earn others' confidence.,Trust Building,I focus on reinforcing trust with my coworkers.,0.5266664,1,0
+696,I earn others' confidence.,Trust Building,I make an effort to develop trust in my organization.,0.66571116,1,0
+697,I earn others' confidence.,Trust Building,I believe in nurturing trust in my relationships.,0.6156136,1,0
+698,I earn others' confidence.,Trust Building,I dedicate myself to strengthening trust with my friends.,0.60263026,1,0
+699,I earn others' confidence.,Trust Building,I work on fostering trust in my daily interactions.,0.6758168,1,0
+700,I welcome diverse viewpoints.,Inclusiveness,I welcome everyone in my group.,0.3222988,1,0
+701,I welcome diverse viewpoints.,Inclusiveness,I embrace diversity in my environment.,0.49143237,1,0
+702,I welcome diverse viewpoints.,Inclusiveness,I value different perspectives and ideas.,0.37388477,1,0
+703,I welcome diverse viewpoints.,Inclusiveness,I include everyone in our activities.,0.3553919,1,0
+704,I welcome diverse viewpoints.,Inclusiveness,I respect people's unique backgrounds and experiences.,0.41586137,1,0
+705,I welcome diverse viewpoints.,Inclusiveness,I ensure everyone feels part of the team.,0.3046539,1,0
+706,I welcome diverse viewpoints.,Inclusiveness,I appreciate the variety of cultures around me.,0.32992485,1,0
+707,I welcome diverse viewpoints.,Inclusiveness,I make space for different voices.,0.24986695,1,0
+708,I welcome diverse viewpoints.,Inclusiveness,I encourage everyone to share their thoughts.,0.27802658,1,0
+709,I welcome diverse viewpoints.,Inclusiveness,I support people from all walks of life.,0.4593841,1,0
+710,I welcome diverse viewpoints.,Inclusiveness,I create an environment open to all.,0.39756325,1,0
+711,I welcome diverse viewpoints.,Inclusiveness,I invite everyone to join our discussions.,0.31461766,1,0
+712,I welcome diverse viewpoints.,Inclusiveness,I celebrate the differences among us.,0.334489,1,0
+713,I welcome diverse viewpoints.,Inclusiveness,I foster a sense of belonging for everyone.,0.4951313,1,0
+714,I welcome diverse viewpoints.,Inclusiveness,I listen to all opinions with respect.,0.30858427,1,0
+715,I welcome diverse viewpoints.,Inclusiveness,I treat everyone equally in our group.,0.4015687,1,0
+716,I welcome diverse viewpoints.,Inclusiveness,I recognize the importance of diverse viewpoints.,0.4319175,1,0
+717,I welcome diverse viewpoints.,Inclusiveness,I promote a welcoming atmosphere.,0.4799331,1,0
+718,I welcome diverse viewpoints.,Inclusiveness,I engage with people from different backgrounds.,0.4324203,1,0
+719,I welcome diverse viewpoints.,Inclusiveness,I strive to make everyone feel included.,0.5429263,1,0
+720,I welcome diverse viewpoints.,Inclusiveness,I cherish the uniqueness of each individual.,0.32534668,1,0
+721,I welcome diverse viewpoints.,Inclusiveness,I contribute to a community where everyone matters.,0.36777294,1,0
+722,I welcome diverse viewpoints.,Inclusiveness,I enjoy learning from different cultures.,0.21784283,1,0
+723,I welcome diverse viewpoints.,Inclusiveness,I actively involve everyone in decision-making.,0.3664963,1,0
+724,I welcome diverse viewpoints.,Inclusiveness,I aim for equal participation in our activities.,0.55420804,1,0
+725,I help others develop skills.,Mentorship,I guide someone in their professional journey.,0.56609607,1,0
+726,I help others develop skills.,Mentorship,I help a person learn and grow.,0.47494268,1,0
+727,I help others develop skills.,Mentorship,I support a colleague with my experience.,0.36089605,1,0
+728,I help others develop skills.,Mentorship,I share my knowledge with a learner.,0.507895,1,0
+729,I help others develop skills.,Mentorship,I assist someone in developing their skills.,0.6081717,1,0
+730,I help others develop skills.,Mentorship,I offer advice to someone seeking guidance.,0.5178319,1,0
+731,I help others develop skills.,Mentorship,I provide support to someone in their career path.,0.582425,1,0
+732,I help others develop skills.,Mentorship,I help another person improve their abilities.,0.51830405,1,0
+733,I help others develop skills.,Mentorship,I offer guidance to a less experienced person.,0.57550246,1,0
+734,I help others develop skills.,Mentorship,I help someone achieve their professional goals.,0.47542962,1,0
+735,I help others develop skills.,Mentorship,I share my expertise with a newcomer.,0.52892417,1,0
+736,I help others develop skills.,Mentorship,I encourage someone to reach their potential.,0.42416465,1,0
+737,I help others develop skills.,Mentorship,I help a junior colleague learn the ropes.,0.54496783,1,0
+738,I help others develop skills.,Mentorship,I give advice to someone who needs it.,0.47171527,1,0
+739,I help others develop skills.,Mentorship,I help someone navigate their career.,0.49348915,1,0
+740,I help others develop skills.,Mentorship,I support another person in their learning process.,0.534485,1,0
+741,I help others develop skills.,Mentorship,I help someone understand their job better.,0.48469365,1,0
+742,I help others develop skills.,Mentorship,I guide someone in making good decisions.,0.48556235,1,0
+743,I help others develop skills.,Mentorship,I assist someone in their professional development.,0.61173403,1,0
+744,I help others develop skills.,Mentorship,I help someone gain confidence in their work.,0.5253831,1,0
+745,I help others develop skills.,Mentorship,I share my insights with someone learning.,0.54127526,1,0
+746,I help others develop skills.,Mentorship,I help someone learn from my experience.,0.51310045,1,0
+747,I help others develop skills.,Mentorship,I assist a colleague in understanding their role.,0.48676217,1,0
+748,I help others develop skills.,Mentorship,I provide guidance to someone starting out.,0.53790617,1,0
+749,I help others develop skills.,Mentorship,I support someone in reaching their career objectives.,0.4236482,1,0
+750,I can convince others of my ideas.,Persuasion,I convince others to see my point of view.,0.43458682,1,0
+751,I can convince others of my ideas.,Persuasion,I influence people to agree with me.,0.411125,1,0
+752,I can convince others of my ideas.,Persuasion,I encourage others to understand my perspective.,0.30036896,1,0
+753,I can convince others of my ideas.,Persuasion,I guide people to accept my ideas.,0.37927842,1,0
+754,I can convince others of my ideas.,Persuasion,I help others to see things my way.,0.28761628,1,0
+755,I can convince others of my ideas.,Persuasion,I lead others to appreciate my opinions.,0.35120147,1,0
+756,I can convince others of my ideas.,Persuasion,I urge people to consider my suggestions.,0.28346682,1,0
+757,I can convince others of my ideas.,Persuasion,I sway others to support my thoughts.,0.44350582,1,0
+758,I can convince others of my ideas.,Persuasion,I inspire people to believe in my ideas.,0.34937304,1,0
+759,I can convince others of my ideas.,Persuasion,I motivate others to understand my reasoning.,0.4092356,1,0
+760,I can convince others of my ideas.,Persuasion,I get people to agree with my plans.,0.3254,1,0
+761,I can convince others of my ideas.,Persuasion,I talk people into accepting my proposals.,0.37275025,1,0
+762,I can convince others of my ideas.,Persuasion,I bring others around to my way of thinking.,0.35287973,1,0
+763,I can convince others of my ideas.,Persuasion,I persuade friends to try new things.,0.36946744,1,0
+764,I can convince others of my ideas.,Persuasion,I explain my ideas convincingly to others.,0.4837773,1,0
+765,I can convince others of my ideas.,Persuasion,I share my views to influence decisions.,0.42262608,1,0
+766,I can convince others of my ideas.,Persuasion,I use arguments to make my case.,0.3739708,1,0
+767,I can convince others of my ideas.,Persuasion,I present my ideas to gain support.,0.35075888,1,0
+768,I can convince others of my ideas.,Persuasion,I express my opinions to change minds.,0.45665622,1,0
+769,I can convince others of my ideas.,Persuasion,I discuss my thoughts to get agreement.,0.36910385,1,0
+770,I can convince others of my ideas.,Persuasion,I share examples to support my ideas.,0.27887502,1,0
+771,I can convince others of my ideas.,Persuasion,I use logic to convince others.,0.4552949,1,0
+772,I can convince others of my ideas.,Persuasion,I tell stories to make my point.,0.32057282,1,0
+773,I can convince others of my ideas.,Persuasion,I show evidence to back up my claims.,0.27786398,1,0
+774,I can convince others of my ideas.,Persuasion,I communicate effectively to gain approval.,0.34304094,1,0
+775,I explain ideas through stories.,Storytelling,I share stories with others.,0.5339025,1,0
+776,I explain ideas through stories.,Storytelling,I tell tales to my friends.,0.5229908,1,0
+777,I explain ideas through stories.,Storytelling,I narrate events to my family.,0.46348053,1,0
+778,I explain ideas through stories.,Storytelling,I describe experiences through words.,0.48435146,1,0
+779,I explain ideas through stories.,Storytelling,I engage in sharing narratives.,0.57589155,1,0
+780,I explain ideas through stories.,Storytelling,I recount past happenings to my group.,0.35812885,1,0
+781,I explain ideas through stories.,Storytelling,I express ideas through storytelling.,0.66575795,1,0
+782,I explain ideas through stories.,Storytelling,I entertain others with my stories.,0.5316925,1,0
+783,I explain ideas through stories.,Storytelling,I craft stories for people to hear.,0.5033518,1,0
+784,I explain ideas through stories.,Storytelling,I convey messages through storytelling.,0.65559804,1,0
+785,I explain ideas through stories.,Storytelling,I talk about adventures I have experienced.,0.4280489,1,0
+786,I explain ideas through stories.,Storytelling,I create stories from my imagination.,0.54351586,1,0
+787,I explain ideas through stories.,Storytelling,I present stories to an audience.,0.58717144,1,0
+788,I explain ideas through stories.,Storytelling,I illustrate ideas through storytelling.,0.66094244,1,0
+789,I explain ideas through stories.,Storytelling,I deliver narratives to entertain my listeners.,0.5834818,1,0
+790,I explain ideas through stories.,Storytelling,I communicate through sharing stories.,0.46129662,1,0
+791,I explain ideas through stories.,Storytelling,I bring stories to life with my words.,0.51258755,1,0
+792,I explain ideas through stories.,Storytelling,I share my experiences in story form.,0.57251906,1,0
+793,I explain ideas through stories.,Storytelling,I tell stories to connect with people.,0.55419165,1,0
+794,I explain ideas through stories.,Storytelling,I use storytelling to share my thoughts.,0.65329546,1,0
+795,I explain ideas through stories.,Storytelling,I share my life stories with others.,0.46273094,1,0
+796,I explain ideas through stories.,Storytelling,I tell stories to make people laugh.,0.48290515,1,0
+797,I explain ideas through stories.,Storytelling,I convey history through storytelling.,0.619246,1,0
+798,I explain ideas through stories.,Storytelling,I share adventures I have had.,0.46368033,1,0
+799,I explain ideas through stories.,Storytelling,I express myself through storytelling.,0.6154604,1,0
+800,I project self-assurance.,Confidence,I have faith in myself.,0.48291722,1,0
+801,I project self-assurance.,Confidence,I believe in my abilities.,0.37138498,1,0
+802,I project self-assurance.,Confidence,I trust my skills.,0.47577393,1,0
+803,I project self-assurance.,Confidence,I have self-assurance.,0.52805585,1,0
+804,I project self-assurance.,Confidence,I feel sure of myself.,0.38915923,1,0
+805,I project self-assurance.,Confidence,I rely on my judgment.,0.36055085,1,0
+806,I project self-assurance.,Confidence,I am self-confident.,0.5726299,1,0
+807,I project self-assurance.,Confidence,I know I can succeed.,0.29636824,1,0
+808,I project self-assurance.,Confidence,I am certain of my capabilities.,0.3308714,1,0
+809,I project self-assurance.,Confidence,I have a strong belief in myself.,0.4166446,1,0
+810,I project self-assurance.,Confidence,I am confident in my decisions.,0.45858794,1,0
+811,I project self-assurance.,Confidence,I trust my instincts.,0.3476578,1,0
+812,I project self-assurance.,Confidence,I feel secure in my abilities.,0.476547,1,0
+813,I project self-assurance.,Confidence,I have inner confidence.,0.6089718,1,0
+814,I project self-assurance.,Confidence,I am confident in my actions.,0.5132993,1,0
+815,I project self-assurance.,Confidence,I believe in my strengths.,0.43724713,1,0
+816,I project self-assurance.,Confidence,I have faith in my decisions.,0.49458903,1,0
+817,I project self-assurance.,Confidence,I know I can handle challenges.,0.28789437,1,0
+818,I project self-assurance.,Confidence,I feel confident in my choices.,0.45722738,1,0
+819,I project self-assurance.,Confidence,I rely on my own abilities.,0.41383594,1,0
+820,I project self-assurance.,Confidence,I am sure of my skills.,0.3664385,1,0
+821,I project self-assurance.,Confidence,I trust in what I can do.,0.4794075,1,0
+822,I project self-assurance.,Confidence,I have confidence in my talents.,0.52891946,1,0
+823,I project self-assurance.,Confidence,I believe in my potential.,0.35501403,1,0
+824,I project self-assurance.,Confidence,I am confident in my efforts.,0.43932998,1,0
+825,I lift group morale.,Energising,I feel full of energy.,0.40616053,1,0
+826,I lift group morale.,Energising,I experience a boost of energy.,0.5188845,1,0
+827,I lift group morale.,Energising,I have a surge of energy.,0.38811612,1,0
+828,I lift group morale.,Energising,I feel very lively.,0.30391553,1,0
+829,I lift group morale.,Energising,I am full of life and energy.,0.2729997,1,0
+830,I lift group morale.,Energising,I feel recharged and energetic.,0.48771635,1,0
+831,I lift group morale.,Energising,I am buzzing with energy.,0.42872968,1,0
+832,I lift group morale.,Energising,I feel invigorated and alive.,0.31454775,1,0
+833,I lift group morale.,Energising,I am feeling very awake and energetic.,0.37276793,1,0
+834,I lift group morale.,Energising,I have lots of energy today.,0.31184584,1,0
+835,I lift group morale.,Energising,I am bursting with energy.,0.34402993,1,0
+836,I lift group morale.,Energising,I feel full of vitality.,0.29573974,1,0
+837,I lift group morale.,Energising,I am feeling really energized.,0.5270678,1,0
+838,I lift group morale.,Energising,I feel awake and full of energy.,0.39194405,1,0
+839,I lift group morale.,Energising,I am full of spirit and energy.,0.26711607,1,0
+840,I lift group morale.,Energising,I feel a rush of energy.,0.4491542,1,0
+841,I lift group morale.,Energising,I am feeling dynamic and energetic.,0.46089333,1,0
+842,I lift group morale.,Energising,I feel very active and full of life.,0.27728122,1,0
+843,I lift group morale.,Energising,I am alive with energy.,0.3492254,1,0
+844,I lift group morale.,Energising,I feel extremely energetic today.,0.2983375,1,0
+845,I lift group morale.,Energising,I am feeling very spirited.,0.25179756,1,0
+846,I lift group morale.,Energising,I feel fresh and energetic.,0.36932653,1,0
+847,I lift group morale.,Energising,I have a lot of vitality.,0.346479,1,0
+848,I lift group morale.,Energising,I am feeling highly energetic.,0.42468145,1,0
+849,I lift group morale.,Energising,I am filled with energy and life.,0.33840322,1,0
+850,I reach deals that satisfy all sides.,Negotiation,I discuss terms with others to find agreement.,0.5600277,1,0
+851,I reach deals that satisfy all sides.,Negotiation,I talk with someone to reach a mutual decision.,0.4314956,1,0
+852,I reach deals that satisfy all sides.,Negotiation,I work towards finding a common ground with someone.,0.34820515,1,0
+853,I reach deals that satisfy all sides.,Negotiation,I engage in conversation to settle on terms.,0.5142714,1,0
+854,I reach deals that satisfy all sides.,Negotiation,I communicate with another person to agree on something.,0.41303146,1,0
+855,I reach deals that satisfy all sides.,Negotiation,I exchange ideas to come to a shared understanding.,0.41819808,1,0
+856,I reach deals that satisfy all sides.,Negotiation,I participate in discussions to make joint decisions.,0.42267007,1,0
+857,I reach deals that satisfy all sides.,Negotiation,I collaborate with others to agree on terms.,0.49444956,1,0
+858,I reach deals that satisfy all sides.,Negotiation,I have a dialogue to reach a consensus.,0.44121486,1,0
+859,I reach deals that satisfy all sides.,Negotiation,I converse with someone to achieve a mutual agreement.,0.5038098,1,0
+860,I reach deals that satisfy all sides.,Negotiation,I strive to find an agreement through discussion.,0.48793435,1,0
+861,I reach deals that satisfy all sides.,Negotiation,I talk with others to settle differences.,0.45309243,1,0
+862,I reach deals that satisfy all sides.,Negotiation,I explore options with someone to reach an accord.,0.45575273,1,0
+863,I reach deals that satisfy all sides.,Negotiation,I communicate to find a solution that suits everyone.,0.4377529,1,0
+864,I reach deals that satisfy all sides.,Negotiation,I share perspectives to agree on a course of action.,0.41261268,1,0
+865,I reach deals that satisfy all sides.,Negotiation,I engage with others to reach a common decision.,0.4297049,1,0
+866,I reach deals that satisfy all sides.,Negotiation,I work together with someone to settle on terms.,0.52509654,1,0
+867,I reach deals that satisfy all sides.,Negotiation,I discuss possibilities to come to a mutual agreement.,0.5446645,1,0
+868,I reach deals that satisfy all sides.,Negotiation,I collaborate to find terms acceptable to all parties.,0.43035752,1,0
+869,I reach deals that satisfy all sides.,Negotiation,I converse with others to agree on a plan.,0.38804948,1,0
+870,I reach deals that satisfy all sides.,Negotiation,I participate in talks to reach a shared decision.,0.524997,1,0
+871,I reach deals that satisfy all sides.,Negotiation,I exchange views to negotiate terms.,0.6477591,1,0
+872,I reach deals that satisfy all sides.,Negotiation,I speak with someone to find a compromise.,0.5316671,1,0
+873,I reach deals that satisfy all sides.,Negotiation,I have discussions to agree on the next steps.,0.43076348,1,0
+874,I reach deals that satisfy all sides.,Negotiation,I engage in dialogue to finalize an agreement.,0.5202216,1,0
+875,I paint a compelling future.,Vision Casting,I imagine the future of my project.,0.23589996,1,0
+876,I paint a compelling future.,Vision Casting,I create a clear picture of my goals.,0.21601933,1,0
+877,I paint a compelling future.,Vision Casting,I describe my vision for the team.,0.21585776,1,0
+878,I paint a compelling future.,Vision Casting,I outline my future plans for success.,0.09917933,1,0
+879,I paint a compelling future.,Vision Casting,I share my dreams with my colleagues.,0.14519916,1,0
+880,I paint a compelling future.,Vision Casting,I express my long-term objectives.,0.06700574,1,0
+881,I paint a compelling future.,Vision Casting,I present my ideas for our future.,0.16861746,1,0
+882,I paint a compelling future.,Vision Casting,I define the path I want us to take.,0.06549511,1,0
+883,I paint a compelling future.,Vision Casting,I communicate my vision for the company.,0.20827614,1,0
+884,I paint a compelling future.,Vision Casting,I explain the direction I want us to go.,0.027977109,1,0
+885,I paint a compelling future.,Vision Casting,I set a clear goal for our project.,0.10992232,1,0
+886,I paint a compelling future.,Vision Casting,I show what I want us to achieve.,0.18189067,1,0
+887,I paint a compelling future.,Vision Casting,I illustrate my plans for the future.,0.14355609,1,0
+888,I paint a compelling future.,Vision Casting,I envision the outcome of our efforts.,0.20810592,1,0
+889,I paint a compelling future.,Vision Casting,I lay out my aspirations for the team.,0.06614298,1,0
+890,I paint a compelling future.,Vision Casting,I articulate my vision for the organization.,0.22695336,1,0
+891,I paint a compelling future.,Vision Casting,I paint a picture of my desired future.,0.20525876,1,0
+892,I paint a compelling future.,Vision Casting,I clarify the goals I want us to reach.,0.046709143,1,0
+893,I paint a compelling future.,Vision Casting,I project the future I foresee for us.,0.24462761,1,0
+894,I paint a compelling future.,Vision Casting,I map out the direction we should follow.,0.13985114,1,0
+895,I paint a compelling future.,Vision Casting,I describe the future I want us to build.,0.1516481,1,0
+896,I paint a compelling future.,Vision Casting,I narrate my vision for our journey.,0.22631447,1,0
+897,I paint a compelling future.,Vision Casting,I share the picture I have in my mind.,0.23528764,1,0
+898,I paint a compelling future.,Vision Casting,I outline the future I aspire to create.,0.18837652,1,0
+899,I paint a compelling future.,Vision Casting,I present the roadmap towards our goals.,0.12102957,1,0
