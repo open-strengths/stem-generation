@@ -1,3 +1,5 @@
+import concurrent.futures
+import itertools
 from typing import ClassVar, Iterable
 
 import openai
@@ -88,7 +90,7 @@ class AssessmentItemGenerator:
 
     @staticmethod
     def create_chat_completion(
-        model: str, messages: list[dict[str, str]], temperature: float, max_tokens: int
+            model: str, messages: list[dict[str, str]], temperature: float, max_tokens: int
     ) -> openai.ChatCompletion:
         try:
             return openai.chat.completions.create(
@@ -101,28 +103,57 @@ class AssessmentItemGenerator:
             return OpenAIError(msg=str(e))
 
     @classmethod
+    def _generate_item(cls, data: tuple[str, str, StemGenerationRequest]) -> list[GeneratedItem] | OpenAIError:
+        anchor, facet, request = data
+        messages = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant that writes CEFR-B1 questionnaire items.",
+            },
+            {"role": "user", "content": cls.prompt(anchor, request)},
+        ]
+        response = cls.create_chat_completion(
+            request.model, messages, request.temperature, request.max_tokens
+        )
+        match response:
+            case OpenAIError(msg=msg):
+                logger.warning(f"OpenAI raised an Error: {msg}")
+                return response
+            case _ as resp:
+                return [{
+                    "facet": facet,
+                    "anchor": anchor,
+                    "stem": stem,
+                } for stem in cls.parse_stems(resp)]
+
+    @classmethod
     def generate_items(cls, request: StemGenerationRequest) -> list[GeneratedItem] | OpenAIError:
-        items: list[GeneratedItem] = []
-        for anchor, facet in FACET_ANCHORS.items():
-            messages = [
-                    {
-                        "role": "system",
-                        "content": "You are a helpful assistant that writes CEFR-B1 questionnaire items.",
-                    },
-                    {"role": "user", "content": cls.prompt(anchor, request)},
-                ]
-            response = cls.create_chat_completion(
-                request.model, messages, request.temperature, request.max_tokens
-            )
-            match response:
-                case OpenAIError(msg=msg):
-                    logger.warning(f"OpenAI raised an Error: {msg}")
-                    return response
-                case _ as resp:
-                    for stem in cls.parse_stems(resp):
-                        items.append({
-                            "facet": facet,
-                            "anchor": anchor,
-                            "stem": stem,
-                        })
+        items: list[list[GeneratedItem]] = []
+        with concurrent.futures.ThreadPoolExecutor() as ex:
+            for i in ex.map(cls._generate_item(itertools.zip_longest(FACET_ANCHORS.items(), [request], fillvalue=request))):
+                items.append(i)
+
+        return list(itertools.chain.from_iterable(items))
+        # for anchor, facet in FACET_ANCHORS.items():
+        #     messages = [
+        #         {
+        #             "role": "system",
+        #             "content": "You are a helpful assistant that writes CEFR-B1 questionnaire items.",
+        #         },
+        #         {"role": "user", "content": cls.prompt(anchor, request)},
+        #     ]
+        #     response = cls.create_chat_completion(
+        #         request.model, messages, request.temperature, request.max_tokens
+        #     )
+        #     match response:
+        #         case OpenAIError(msg=msg):
+        #             logger.warning(f"OpenAI raised an Error: {msg}")
+        #             return response
+        #         case _ as resp:
+        #             for stem in cls.parse_stems(resp):
+        #                 items.append({
+        #                     "facet": facet,
+        #                     "anchor": anchor,
+        #                     "stem": stem,
+        #                 })
         return items

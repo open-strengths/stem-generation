@@ -54,7 +54,7 @@ const StemList: React.FC<StemListProps> = ({ stems }) => {
               >
                 <TableCell>{stem.facet}</TableCell>
                 <TableCell>{stem.anchor}</TableCell>
-                <TableCell>{stem.stem_text}</TableCell>
+                <TableCell>{stem.stem}</TableCell>
                 <TableCell align="right">
                   {stem.cosine_similarity.toFixed(3)}
                 </TableCell>

@@ -63,7 +63,7 @@ const initialStems: StemItem[] = [
   {
     facet: 'facet_1',
     anchor: 'anchor_1',
-    stem_text: 'stem_text_1',
+    stem: 'stem_text_1',
     cosine_similarity: 0.8,
     drift_flag: false,
     length_flag: false,
@@ -71,7 +71,7 @@ const initialStems: StemItem[] = [
   {
     facet: 'facet_2',
     anchor: 'anchor_2',
-    stem_text: 'stem_text_2',
+    stem: 'stem_text_2',
     cosine_similarity: 0.9,
     drift_flag: false,
     length_flag: false,
@@ -79,7 +79,7 @@ const initialStems: StemItem[] = [
   {
     facet: 'facet_2',
     anchor: 'anchor_2',
-    stem_text: 'stem_text_3',
+    stem: 'stem_text_3',
     cosine_similarity: 0.7,
     drift_flag: true,
     length_flag: false,

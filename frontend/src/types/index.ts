@@ -1,7 +1,7 @@
 export interface StemItem {
   facet: string;
   anchor: string;
-  stem_text: string;
+  stem: string;
   cosine_similarity: number;
   drift_flag: boolean;
   length_flag: boolean;

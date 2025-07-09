@@ -1,7 +1,8 @@
 import React, { useMemo } from 'react';
 import Plot from 'react-plotly.js';
-import { Paper, Typography, Box, Grid } from '@mui/material';
+import { Paper, Typography, Box } from '@mui/material';
 import { StemItem } from '../types';
+import { PlotData, Layout } from 'plotly.js';
 
 interface StemSimilarityVisualizationProps {
   stems: StemItem[];
@@ -62,26 +63,8 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
     });
   }, [facetGroups, similarityThreshold]);
 
-  // Generate violin plot data
-  const violinData = useMemo(() => {
-    return facetStats.map(stat => ({
-      type: 'violin',
-      y: stat.similarities,
-      name: stat.facet,
-      box: { visible: true },
-      meanline: { visible: true },
-      points: 'all',
-      pointpos: 0,
-      jitter: 0.1,
-      scalemode: 'count',
-      side: 'positive',
-      width: 0.6,
-      line: { width: 1 },
-    }));
-  }, [facetStats]);
-
   // Generate histogram data
-  const histogramData = useMemo(() => {
+  const histogramData = useMemo<Partial<PlotData>[]>(() => {
     return [{
       x: stems.map(s => s.cosine_similarity),
       type: 'histogram',
@@ -97,8 +80,26 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
     }];
   }, [stems]);
 
+  // Generate violin plot data
+  const violinData = useMemo<Partial<PlotData>[]>(() => {
+    return facetStats.map(stat => ({
+      y: stat.similarities,
+      type: 'violin',
+      name: stat.facet,
+      box: { visible: true },
+      meanline: { visible: true },
+      points: 'all',
+      pointpos: 0,
+      jitter: 0.05,
+      scalemode: 'count',
+      side: 'positive',
+      width: 4,
+      line: { color: 'rgba(100, 200, 102, 0.7)' },
+    }));
+  }, [facetStats]);
+
   // Generate statistics line plot data
-  const statsData = useMemo(() => {
+  const statsData = useMemo<Partial<PlotData>[]>(() => {
     const stats = ['min', 'mean', 'median', 'max', 'stddev'] as const;
     return stats.map(stat => ({
       x: facetStats.map(s => s.facet),
@@ -110,7 +111,7 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
   }, [facetStats]);
 
   // Generate threshold compliance data
-  const thresholdData = useMemo(() => {
+  const thresholdData = useMemo<Partial<PlotData>[]>(() => {
     return [{
       x: facetStats.map(s => s.facet),
       y: facetStats.map(s => (s.aboveThreshold / s.count) * 100),
@@ -128,9 +129,9 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
         Stem Similarity Analysis
       </Typography>
       
-      <Grid container spacing={3}>
+      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3 }}>
         {/* Violin Plot */}
-        <Grid item xs={12} md={6}>
+        <Box sx={{ flex: 1, maxWidth: { xs: '100%', md: '50%' } }}>
           <Paper elevation={3} sx={{ p: 2 }}>
             <Typography variant="h6" gutterBottom>
               Similarity Distribution by Facet
@@ -139,23 +140,21 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
               data={violinData}
               layout={{
                 height: 400,
+                title: '',
                 yaxis: { title: 'Cosine Similarity', range: [0, 1] },
                 showlegend: false,
                 shapes: [{
                   type: 'line',
-                  x0: -0.5,
-                  x1: Object.keys(facetGroups).length - 0.5,
-                  y0: similarityThreshold,
-                  y1: similarityThreshold,
-                  line: {
-                    color: 'red',
-                    width: 2,
-                    dash: 'dash',
-                  },
+                  x0: similarityThreshold,
+                  x1: similarityThreshold,
+                  y0: 0,
+                  y1: 1,
+                  yref: 'paper',
+                  line: { color: 'red', width: 2, dash: 'dash' },
                 }],
                 annotations: [{
-                  x: 0,
-                  y: similarityThreshold,
+                  x: similarityThreshold,
+                  y: 0.5,
                   xref: 'paper',
                   yref: 'y',
                   text: `Threshold: ${similarityThreshold}`,
@@ -168,14 +167,18 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
                   borderwidth: 1,
                   borderpad: 4,
                 }],
-              }}
+                paper_bgcolor: 'rgba(0,0,0,0)',
+                plot_bgcolor: 'rgba(0,0,0,0)',
+                autosize: true,
+                separators: '.,',
+              } as Partial<Layout>}
               config={{ responsive: true }}
             />
           </Paper>
-        </Grid>
+        </Box>
 
         {/* Histogram */}
-        <Grid item xs={12} md={6}>
+        <Box sx={{ flex: 1, maxWidth: { xs: '100%', md: '50%' } }}>
           <Paper elevation={3} sx={{ p: 2 }}>
             <Typography variant="h6" gutterBottom>
               Overall Similarity Distribution
@@ -183,7 +186,7 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
             <Plot
               data={histogramData}
               layout={{
-                height: 400,
+                title: 'Stem Similarity Distribution',
                 xaxis: { title: 'Cosine Similarity', range: [0, 1] },
                 yaxis: { title: 'Count' },
                 shapes: [{
@@ -193,20 +196,20 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
                   y0: 0,
                   y1: 1,
                   yref: 'paper',
-                  line: {
-                    color: 'red',
-                    width: 2,
-                    dash: 'dash',
-                  },
+                  line: { color: 'red', width: 2, dash: 'dash' },
                 }],
-              }}
+                paper_bgcolor: 'rgba(0,0,0,0)',
+                plot_bgcolor: 'rgba(0,0,0,0)',
+                autosize: true,
+                separators: '.,',
+              } as Partial<Layout>}
               config={{ responsive: true }}
             />
           </Paper>
-        </Grid>
+        </Box>
 
         {/* Statistics Line Plot */}
-        <Grid item xs={12}>
+        <Box sx={{ flex: 1, maxWidth: '100%' }}>
           <Paper elevation={3} sx={{ p: 2 }}>
             <Typography variant="h6" gutterBottom>
               Similarity Statistics by Facet
@@ -215,10 +218,11 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
               data={statsData}
               layout={{
                 height: 400,
+                title: '',
                 xaxis: { title: 'Facet' },
                 yaxis: { title: 'Similarity Score', range: [0, 1] },
                 shapes: [{
-                  type: 'line',
+                  type: 'line' as const,
                   x0: -0.5,
                   x1: Object.keys(facetGroups).length - 0.5,
                   y0: similarityThreshold,
@@ -226,17 +230,21 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
                   line: {
                     color: 'red',
                     width: 2,
-                    dash: 'dash',
+                    dash: 'dash' as const,
                   },
                 }],
-              }}
+                paper_bgcolor: 'rgba(0,0,0,0)',
+                plot_bgcolor: 'rgba(0,0,0,0)',
+                autosize: true,
+                separators: '.,',
+              } as Partial<Layout>}
               config={{ responsive: true }}
             />
           </Paper>
-        </Grid>
+        </Box>
 
         {/* Threshold Compliance */}
-        <Grid item xs={12}>
+        <Box sx={{ flex: 1, maxWidth: '100%' }}>
           <Paper elevation={3} sx={{ p: 2 }}>
             <Typography variant="h6" gutterBottom>
               Percentage of Stems Above Similarity Threshold
@@ -245,9 +253,9 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
               data={thresholdData}
               layout={{
                 height: 400,
-                xaxis: { title: 'Facet' },
+                xaxis: { title: {text: 'Facet' }},
                 yaxis: { 
-                  title: 'Percentage',
+                  title: {text: 'Percentage'},
                   range: [0, 105],
                   ticksuffix: '%',
                 },
@@ -267,8 +275,8 @@ const StemSimilarityVisualization: React.FC<StemSimilarityVisualizationProps> = 
               config={{ responsive: true }}
             />
           </Paper>
-        </Grid>
-      </Grid>
+        </Box>
+      </Box>
     </Box>
   );
 };

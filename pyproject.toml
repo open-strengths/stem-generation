@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "fastapi[standard,uvicorn]>=0.115.14",
+    "fastapi[standard]>=0.115.14",
     "loguru>=0.7.3",
     "matplotlib>=3.10.3",
     "notebook>=7.4.3",
@@ -18,4 +18,10 @@ dependencies = [
     "ruff>=0.12.1",
     "seaborn>=0.13.2",
     "sentence-transformers>=4.1.0",
+    "uvicorn>=0.35.0",
 ]
+
+
+
+[tool.uv]
+required-environments = ["sys_platform == 'darwin' and platform_machine == 'x86_64'", "sys_platform == 'linux' and platform_machine == 'x86_64'"]
